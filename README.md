@@ -4,7 +4,7 @@ python3 dexonline_extractor.py <letter>
 
 Files were generated with following script:
 
-for i in {j..z};
+for i in {a..z};
 do
 python3 dexonline_extractor.py $i
 git add $i
