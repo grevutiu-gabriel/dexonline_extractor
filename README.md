@@ -10,3 +10,5 @@ python3 dexonline_extractor.py $i
 git add $i
 git commit -m "Add list of words begining with letter $i"
 done
+
+The following script for non-English character
