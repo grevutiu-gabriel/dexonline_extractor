@@ -9,7 +9,7 @@ content = url.read()
 soup = BeautifulSoup(content)
 for a in soup.findAll("a",href=True):
     if re.findall('definitie', a['href']):
-        print(a['href'], file=outgroup)
+        print(a['href'].rsplit('/',1)[1], file=outgroup)
 
 outgroup.flush()
 os.fsync(outgroup)
