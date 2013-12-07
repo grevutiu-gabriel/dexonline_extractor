@@ -4,7 +4,12 @@ import re
 import sys, os
 hostname = str(sys.argv[1])
 outgroup=open(hostname, 'wt')
-url = urllib.request.urlopen("http://dexonline.ro/lista-cuvinte/"+hostname)
+url="http://dexonline.ro/lista-cuvinte/"+hostname
+url = urllib.parse.urlsplit(url)
+url = list(url)
+url[2] = urllib.parse.quote(url[2])
+url = urllib.parse.urlunsplit(url)
+url = urllib.request.urlopen(url)
 content = url.read()
 soup = BeautifulSoup(content)
 for a in soup.findAll("a",href=True):
