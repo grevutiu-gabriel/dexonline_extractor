@@ -1,1 +1,12 @@
 Script for extracting Romanian word list from www.dexonline.ro
+
+python3 dexonline_extractor.py <letter>
+
+Files were generated with following script:
+
+for i in {j..z};
+do
+python3 dexonline_extractor.py $i
+git add $i
+git commit -m "Add list of words begining with letter $i"
+done
