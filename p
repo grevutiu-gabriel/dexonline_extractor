@@ -53,7 +53,6 @@ pacheco
 pachelbel
 pacher
 pacheșcă
-pachești
 pachet
 pachetaj
 pachetar
@@ -660,6 +659,8 @@ Pallottino
 Pally
 palm
 palma
+palma-Maicii-Domnului
+palma-pământului
 palmac
 palmacee
 palmagiu
@@ -679,7 +680,7 @@ palmatisecat
 palmatum
 palmatură
 palmă
-palmă‑cu‑spini
+palmă-cu-spini
 Palmdale
 Palme
 palmer
@@ -804,6 +805,7 @@ Pamukkale
 pan
 pan-
 pana
+pana-zburătorului
 pana$
 panabrici
 panacagiu
@@ -1184,7 +1186,7 @@ pantofărie
 pantofior
 pantofobie
 pantoful
-pantoful‑doamnei
+pantoful-doamnei
 pantograf
 pantografic
 pantografie
@@ -1245,7 +1247,7 @@ paoră
 paos
 pap
 papa
-papa‑găinii
+papa-găinii
 papabil
 papacioacă
 papacioc
@@ -1264,8 +1266,8 @@ Papadopol
 Papadopoulos
 papagaie
 papagal
-papagal‑de‑brazi
-papagal‑țigănesc
+papagal-de-brazi
+papagal-țigănesc
 papagalic
 papagalicesc
 papagalicește
@@ -1324,8 +1326,8 @@ papaveracee
 papaveraceu
 papaverină
 papă
-papă‑lapte
-papă‑tot
+papă-lapte
+papă-tot
 papăndecăl
 papcă
 papeete
@@ -1450,7 +1452,7 @@ papucărie
 papucătorie
 papucel
 papucul
-papucul‑doamnei
+papucul-doamnei
 papugerie
 papugire
 papugiu
@@ -1460,9 +1462,9 @@ papulos
 papuloză
 papună
 papură
+papură-roșie
+papură-rotundă
 Papură-Vodă
-papură‑roșie
-papură‑rotundă
 papus
 Paquime
 par
@@ -2150,7 +2152,6 @@ parizianiza
 parizianizare
 parizianizat
 parizon
-pấrî
 parîma
 parîmă
 parîmărie
@@ -2338,7 +2339,6 @@ parthenon
 Parthenopaeus
 parti
 parti-pris
-parti‑pris
 partic
 participa
 participant
@@ -2462,10 +2462,11 @@ pasă-mi-te
 pasămite
 pasăre
 Pasărea
-pasărea‑cânepii
-pasărea‑liră
-pasărea‑muscă
-pasărea‑paradisulul
+pasărea-cânepii
+pasărea-liră
+pasărea-muscă
+pasărea-omătului
+pasărea-paradisului
 pascal
 pascalău
 Pascali
@@ -2581,7 +2582,6 @@ passiflora
 passim
 passing
 passing-shot
-passing‑shot
 passionato
 Passo
 Passos
@@ -2682,18 +2682,17 @@ pașport
 paște
 paște-vânt
 paște-vînt
-paște‑vânt
 paștealui
 Paștele
+paştele-cailor
+paştele-calului
 paștelemic
-Paștelui
 paștere
 paștet
 paștevânt
 paștevînt
 paști
 paștie
-Paștilor
 paștu
 paștuni
 pașuș
@@ -2799,6 +2798,7 @@ patimă
 patin
 patina
 patinaj
+patinaj-viteză
 patinare
 patinat
 patinatoare
@@ -2997,7 +2997,7 @@ patrusprezecelea
 patrușpe
 patrușpelea
 patruzeci
-Patruzeci‑de‑Sfinți
+Patruzeci-de-Sfinți
 patruzecilea
 patruzecime
 patruzecinic
@@ -3142,7 +3142,6 @@ paxologie
 paxos
 paxton
 pay-back
-pay‑back
 payen
 payer
 payot
@@ -3278,13 +3277,13 @@ păducea
 păducel
 păduche
 păduche-de-lemn
-păduche‑de‑lemn
 păduchea
 păducheare
 păducheariță
 păducheat
 păduchedelemn
 păduchel
+păduchele-calului
 păduchelniță
 păducheoaie
 păducher
@@ -3321,7 +3320,6 @@ păduri
 pădurice
 păduricios
 păduridă
-pădurii
 pădurire
 păduriște
 pădurit
@@ -3355,7 +3353,6 @@ păgâniza
 păgânizare
 păgânos
 păgîn
-păgînătate
 păgînesc
 păgînește
 păgîni
@@ -3485,7 +3482,7 @@ pălămar
 pălămărie
 pălămăti
 pălămidă
-pălămidă‑de‑baltă
+pălămidă-de-baltă
 pălămizit
 pălăncuță
 pălăndic
@@ -3493,7 +3490,7 @@ pălăngi
 pălănuț
 pălăpăi
 pălăria
-pălăria‑șarpelui
+pălăria-șarpelui
 pălăriaș
 pălăriat
 pălărie
@@ -3854,6 +3851,7 @@ părechiușă
 părelnic
 părelnicie
 părere
+părere de rău
 păresimi
 păresimier
 păretar
@@ -3947,7 +3945,9 @@ păruială
 păruire
 păruit
 Părul
-Părul‑Berenicei
+Părul-Berenicei
+părul-Maicii-Domnului
+părul-porcului
 părulă
 părulmaiciipreciste
 părulsfinteimarii
@@ -3990,7 +3990,6 @@ păsăroaică
 păsăroi
 păsărucă
 păsăruică
-păsăruicii
 păsăruie
 păsăruț
 păsăruță
@@ -4085,7 +4084,7 @@ păstoriță
 păstornic
 păstornicesc
 Păstorul
-Păstorul‑cu‑Oile
+Păstorul-cu-Oile
 păstos
 păstra
 păstramă
@@ -4217,8 +4216,12 @@ pătiuc
 pătîrniche
 pătlagină
 pătlăgea
+pătlăgea-roşie
+pătlăgea-vânătă
 pătlăgeană
 pătlăgică
+pătlăgică-roşie
+pătlăgică-vânătă
 pătlăginiu
 pătlăji
 pătpăduchi
@@ -4261,10 +4264,10 @@ pătrunchios
 pătrunde
 pătrundere
 pătrunjel
-pătrunjel‑de‑câmp
+pătrunjel-de-câmp
 pătrunjelsălbatic
 pătrunjelul
-pătrunjelul‑câinelui
+pătrunjelul-câinelui
 pătrunjică
 pătruns
 pătrunsătură
@@ -4415,7 +4418,7 @@ pâinărie
 pâine
 pâinea
 pâinea-pădurii
-pâinea‑pădurii
+pâinea-porcului
 pâinică
 pâinișoară
 pâiniță
@@ -4883,7 +4886,7 @@ pecetar
 pecetărie
 pecete
 pecetea
-pecetea‑lui‑Solomon
+pecetea-lui-Solomon
 pecetie
 pecetlar
 pecetlui
@@ -5253,13 +5256,15 @@ Pelidul
 pelimon
 pelin
 pelin negru
-pelin‑bun
+pelin-bun
+pelin-de-mături
+pelin-mic
 pelinariță
 pelinaș
 pelinat
 pelinată
 pelincă
-pelincile
+pelincile-Domnului
 pelincuță
 pelingher
 peliniță
@@ -5515,7 +5520,7 @@ penitent
 penitență
 penitențial
 penitențiar
-penița
+peniţa-bungeacului
 peniță
 Penjab
 penkovski
@@ -5700,7 +5705,6 @@ pepoșe
 peppermint
 pepsi
 pepsi-cola
-pepsi‑cola
 pepsic
 pepsie
 pepsină
@@ -6656,6 +6660,7 @@ perpetuitate
 perpetuo
 perpetuu
 perpetuum
+perpetuum mobile
 perpignac
 perplex
 perplexa
@@ -6742,6 +6747,7 @@ persoaică
 persoană
 persona
 persona grata
+persona non grata
 personae
 personagiu
 personaj
@@ -6981,7 +6987,6 @@ pestrița
 pestrițare
 pestrițat
 pestrițătură
-pestrițe
 pestriție
 pestrițiu
 pestrițură
@@ -7008,13 +7013,15 @@ peșmă
 peșrev
 Peșta
 pește
-pește‑auriu
-pește‑ciocan
-pește‑cu‑spadă
-pește‑de‑mare
-pește‑ferăstrău
+pește-auriu
+pește-ciocan
+pește-cu-spadă
+peşte-cu-şapte-nume
+pește-de-mare
+pește-ferăstrău
+pește-fierăstrău
 peștele
-peștele‑lui‑Solomon
+peștele-lui-Solomon
 peștelui
 peșteman
 Peștera
@@ -7022,7 +7029,6 @@ peșteră
 peșterean
 peșteros
 peștic
-peștilor
 peștimal
 peștiman
 peștină
@@ -7123,6 +7129,7 @@ Petipa
 petit
 petit-gris
 petitio
+petitio principii
 petitoriu
 petițar
 petiță
@@ -7392,7 +7399,7 @@ Phenian
 Pheredike
 Pheres
 phi
-phi‑ha
+phi-ha
 Phibunsongkhram
 Phidias
 phiha
@@ -7486,8 +7493,8 @@ phytolacca
 pi
 pi pa
 pi-pi-pi
-pi‑pi‑pi
 pia
+pia mater
 Piacenza
 piacere
 piacevole
@@ -7528,15 +7535,15 @@ Piasti
 piastru
 Piasty
 Piatigorsky
-piatra
+Piatra
+piatra-iadului
 Piatra-Neamț
 Piatra-Olt
 Piatra-Roșie
 piatră
 piatră-acră
-piatră‑acră
-piatră‑de‑var
-piatră‑vânătă
+piatră-de-var
+piatră-vânătă
 piatrăacră
 piatti
 piață
@@ -7634,7 +7641,7 @@ picioacă
 picioaică
 picioarcă
 picioare
-picioare‑lungi
+picioare-lungi
 picioarelea
 picioc
 piciocă
@@ -7644,7 +7651,7 @@ piciocească
 piciociște
 picioică
 picior
-picior‑de‑gaiță
+picior-de-gaiță
 piciorac
 piciorag
 picioranță
@@ -7665,7 +7672,7 @@ piciorongat
 picioruc
 piciorug
 piciorul
-piciorul‑caprei
+piciorul-caprei
 piciorulgâștii
 picioruș
 picioruț
@@ -7674,7 +7681,6 @@ piciu
 piciulingă
 pick
 pick-up
-pick‑up
 pickammer
 picker
 pickering
@@ -7815,8 +7821,7 @@ piedicuță
 piedin
 piedras
 piei
-Piei-roșii
-piei‑roșii
+piei-roșii
 pieire
 pieiște
 pieitor
@@ -7927,7 +7932,7 @@ pieptuț
 Pier
 pierce
 pierde
-pierde‑vară
+pierde-vară
 pierdere
 pierdevară
 pierdut
@@ -8032,7 +8037,7 @@ pietros
 Pietrosu
 Pietroșani
 pietroșel
-pietroșel‑sur
+pietroșel-sur
 pietroșie
 Pietroșița
 pietru
@@ -8270,7 +8275,6 @@ pimpilic
 pimpinelă
 pin
 pin-up
-pin‑up
 pinacee
 pinachidă
 pinacle
@@ -8287,7 +8291,6 @@ pină
 pincă
 pincăl
 pince-nez
-pince‑nez
 pinchiu
 Pincio
 pincops
@@ -8318,9 +8321,8 @@ Pinero
 pinet
 ping
 ping-pong
-ping‑pong
-ping‑pongist
-ping‑pongistă
+ping-pongist
+ping-pongistă
 pingă
 pingăli
 pingălire
@@ -8379,7 +8381,7 @@ pintenește
 pintenoagă
 pintenog
 pintenul
-pintenul‑secarei
+pintenul-secarei
 pinter
 pintilie
 Pinto
@@ -8500,7 +8502,6 @@ pipărușcă
 pipător
 pipe
 pipe-line
-pipe‑line
 pipească
 Pipelcuța
 pipelcuță
@@ -8529,6 +8530,7 @@ pipernicit
 piperniță
 piperonal
 piperul
+piperul-lupului
 piperuță
 pipetă
 pipi
@@ -8875,7 +8877,7 @@ pisi
 pisic
 pisicar
 pisică
-pisică‑de‑mare
+pisică-de-mare
 pisicări
 pisicărire
 pisiceală
@@ -8922,9 +8924,9 @@ pistil
 pistofon
 Pistoia
 pistol
-pistol‑mitralieră
-pistol‑portbandulă
-pistol‑rachetă
+pistol-mitralieră
+pistol-portbandulă
+pistol-rachetă
 pistolagiu
 pistolar
 pistolard
@@ -9002,7 +9004,6 @@ pișcav
 pișcă
 pișcă-n-floare
 pișcă-n-flori
-pișcă‑n‑flori
 pișcăcios
 pișcănfloare
 pișcănflori
@@ -9073,7 +9074,7 @@ pișulit
 pișvaser
 pit
 pita
-pita‑vacii
+pita-vacii
 pitac
 pitaci
 Pitagora
@@ -9265,8 +9266,8 @@ pițigău
 pițigoaică
 pițigoaie
 pițigoi
-pițigoi‑codat
-pițigoi‑pungaș
+pițigoi-codat
+pițigoi-pungaș
 pițigoiat
 pițigoice
 pițigoiîntunecat
@@ -9957,9 +9958,6 @@ play-back
 play-boy
 play-girl
 play-list
-play‑back
-play‑boy
-play‑girl
 playa
 playboy
 player
@@ -10113,7 +10111,6 @@ plăzuitură
 plângaci
 plângăcios
 plângăreț
-plângătoare
 plângător
 plângătui
 plângătuire
@@ -10212,7 +10209,6 @@ Pleiades
 plein
 plein jeu
 plein-air
-plein‑air
 pleio
 pleiocaziu
 pleiociclic
@@ -10357,6 +10353,8 @@ Pleșoiu
 pleștaniță
 plești
 pleștină
+pleștire
+pleștit
 Pleșu
 pleșug
 pleșugi
@@ -10581,8 +10579,8 @@ pliscoti
 pliscotire
 pliscotit
 pliscpăsăresc
-pliscul
 pliscul cucoarei
+pliscul-cocorului
 pliscușor
 Plisețkaia
 Plisețki
@@ -10668,7 +10666,8 @@ ploicică
 ploicios
 ploiele
 ploier
-ploier‑comun
+ploier-comun
+ploier-mic
 ploierniță
 ploiește
 ploieștean
@@ -10704,6 +10703,8 @@ plonjon
 plonjor
 plooa
 plop
+plop-alb
+plop-de-munte
 plopan
 Plopana
 plopar
@@ -10748,10 +10749,12 @@ ploșcan
 ploșcoci
 ploșnicar
 ploșnicioară
-ploșnița
+ploşniţa-verzei
 ploșnițar
 ploșnițare
 ploșniță
+ploşniţă-de-pom
+ploşniţă-sură
 ploșnițărie
 ploșnițoasă
 ploșteancă
@@ -10859,6 +10862,7 @@ plunger
 plupă
 plural
 plurale
+plurale tantum
 pluralia
 pluralism
 pluralist
@@ -10921,7 +10925,6 @@ plurivocitate
 plurivor
 plus
 plus-quam-perfect
-plus‑quam‑perfect
 plusa
 plusare
 pluscuamperfect
@@ -10940,7 +10943,7 @@ Plutarc
 Plutarh
 plutaș
 plută
-plută‑far
+plută-far
 plutări
 plutărie
 plutărire
@@ -10960,7 +10963,7 @@ plutind
 plutire
 plutit
 plutitoare
-plutitoare‑dulce
+plutitoare-dulce
 plutitor
 plutniță
 pluto
@@ -10974,8 +10977,8 @@ plutoner
 plutonian
 plutonic
 plutonier
-plutonier‑adjutant
-plutonier‑major
+plutonier-adjutant
+plutonier-major
 plutonism
 plutonist
 plutonit
@@ -11094,23 +11097,24 @@ poadă
 poafă
 poajgă
 poala
-poala‑rândunicii
-poala‑Sfintei‑Marii
+poala-Maicii-Domnului
+poala-rândunicii
+poala-Sfintei-Marii
 poală
 poală albă
-poală‑albă
+poală-albă
 poalăalbă
 poale
-poale‑n‑brâu
+poale-n-brâu
 poaleș
 poaltă
 poama
-poama‑câinelui
+poama-câinelui
 poamă
 poame
-poame‑de‑pământ
+poame-de-pământ
 poamele
-poamele‑mâței
+poamele-mâței
 poampă
 poancă
 poane
@@ -13050,8 +13054,6 @@ pop-art
 pop-corn
 pop-music
 pop-rock
-pop‑art
-pop‑corn
 Popa
 popadie
 popandosie
@@ -13123,7 +13125,6 @@ popiciu
 popicos
 popie
 popietă
-popii
 popilnic
 popime
 popina
@@ -13301,9 +13302,11 @@ porânci
 porâncită
 Porbus
 porc
-porc‑de‑mare
-porc‑ghimpos
-porc‑spinos
+porc-de-mare
+porc-ghimpos
+porc-mistreţ
+porc-sălbatic
+porc-spinos
 porcan
 porcar
 porcaș
@@ -13577,7 +13580,6 @@ portcuțit
 portdrapel
 porte
 porte-bonheur
-porte‑bonheur
 portecă
 portelectrod
 portelicopter
@@ -13615,12 +13617,12 @@ portmonetă
 portmoneu
 porto
 Porto Alegre
+Porto Rico
 porto-cavă
 porto-franc
 porto-franco
 porto-novo
 Porto-Rico
-porto‑franco
 portocal
 portocală
 portocaliu
@@ -13716,7 +13718,7 @@ porumbărie
 porumbăriște
 porumbea
 porumbel
-porumbel‑râzător
+porumbel-râzător
 porumbelniță
 porumbelturcesc
 porumbelțigănesc
@@ -13890,6 +13892,7 @@ post
 post-
 post-abortum
 post-cheie
+post-factum
 post-meridian
 post-meridiem
 post-mortem
@@ -13897,11 +13900,6 @@ post-partum
 post-post-scriptum
 post-restant
 post-scriptum
-post‑factum
-post‑mortem
-post‑partum
-post‑restant
-post‑scriptum
 posta
 postabdomen
 postacțiune
@@ -14633,7 +14631,6 @@ pozderos
 Pozen
 pozeur
 pozeură
-pozitie-cheie
 pozitiv
 pozitivamente
 pozitivism
@@ -14647,6 +14644,7 @@ poziton
 pozitron
 pozitroniu
 poziție
+poziție-cheie
 poziționa
 pozițional
 poziționare
@@ -15103,7 +15101,7 @@ prâscaviță
 prâscăviță
 prâscâti
 prâslea
-Prâslea‑cel‑Voinic
+Prâslea-cel-Voinic
 prâslei
 prâsliță
 prâsluc
@@ -15122,8 +15120,8 @@ pre-
 prea
 prea curata
 prea-curata
+prea-prea
 prea-sfânta
-prea‑prea
 preaadânc
 preaales
 preabataj
@@ -16509,8 +16507,7 @@ preștire
 preștiut
 preștiutor
 Pret
-pret-a-porter
-prêt‑a‑porter
+prêt-a-porter
 preta
 pretabil
 pretabilitate
@@ -17104,14 +17101,15 @@ prilosteală
 prilosti
 prilostire
 prim
+prim rang
+prim-balerin
+prim-ministru
+prim-plan
 prim-pretor
-prim‑balerin
-prim‑ministru
-prim‑plan
-prim‑pretor
-prim‑procuror
-prim‑secretar
-prim‑viceprim‑ministru
+prim-procuror
+prim-secretar
+prim-solist
+prim-viceprim-ministru
 prima
 primadonă
 primaj
@@ -17131,6 +17129,7 @@ primatologă
 primatologie
 primație
 primă
+primă-doamnă
 primăreasă
 primărie
 primăriță
@@ -17301,10 +17300,10 @@ printa
 printare
 printat
 printr
-printr‑al
-printr‑altul
-printr‑o
-printr‑un
+printr-al
+printr-altul
+printr-o
+printr-un
 printre
 printru
 Printz
@@ -17675,6 +17674,7 @@ Prjevalski
 PRM
 pro
 pro domo
+pro domo sua
 pro forma
 proactiv
 proacțiune
@@ -17682,7 +17682,7 @@ proafla
 proafrican
 proamerican
 proaspăt
-proastă
+proastă-creştere
 proașcă
 proavă
 prob
@@ -17803,7 +17803,6 @@ procentaj
 procentual
 proces
 proces-verbal
-proces‑verbal
 procesa
 procesare
 procesat
@@ -18235,6 +18234,7 @@ progon
 progradare
 progradie
 program
+program-pilot
 programa
 programabil
 programabilitate
@@ -18308,7 +18308,7 @@ proiectant
 proiectare
 proiectat
 proiectil
-proiectil‑rachetă
+proiectil-rachetă
 proiectiv
 proiectivism
 proiectivitate
@@ -18648,7 +18648,7 @@ proprioceptiv
 proprioceptor
 propriocepție
 propriu
-propriu‑zis
+propriu-zis
 proptar
 proptă
 proptea
@@ -20009,7 +20009,6 @@ pțu
 pu
 pu-pu-pup
 pu-pup
-pu‑pu‑pup
 puah
 pub
 pubalgie
@@ -20142,6 +20141,7 @@ puerperal
 puerperalitate
 puerperiu
 Puerto
+Puerto Rico
 puf
 puf (int.)
 pufa
@@ -20469,6 +20469,7 @@ puncheur
 punching-ball
 punci
 punct
+punct şi virgulă
 puncta
 punctaj
 punctar
@@ -20736,13 +20737,12 @@ puricărie
 puricărime
 puricătură
 purice
-purice‑de‑apă
+purice-de-apă
 puriceală
 puriceasă
 puricească
 puricei
 puricel
-puricelui
 purici
 puricică
 puricioasă
@@ -20914,7 +20914,7 @@ pușcat
 pușcaviță
 pușcă
 pușcă de soc
-pușcă‑mitralieră
+pușcă-mitralieră
 pușcăi
 pușcălău
 pușcăleață
