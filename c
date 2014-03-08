@@ -1,6 +1,7 @@
 c
 C.I.A.
 ca
+ca-la-Breaza
 Caaba
 caatinga
 cab
@@ -264,14 +265,10 @@ cafe-concert
 cafe-frappe
 cafe-frappee
 cafe-șantan
-cafe‑bar
-cafe‑concert
-cafe‑frappe
 cafea
 cafea espresso
 cafegi
 cafegi-bașa
-cafegi‑bașa
 cafegibașa
 cafegioaică
 cafegiu
@@ -343,6 +340,7 @@ caid
 caie
 caier
 caiet
+caiet-program
 caiețel
 caifet
 caihana
@@ -355,7 +353,6 @@ caima
 caimac
 caimacam
 caimacam-aga
-caimacam‑aga
 caimacan
 caiman
 caimea
@@ -383,10 +380,10 @@ cajvana
 cakewalk
 cakste
 cal
-cal‑de‑apă
-cal‑de‑mare
-cal‑putere
-cal‑turtit
+cal-de-apă
+cal-de-mare
+cal-putere
+cal-turtit
 cala
 calabalâc
 calabalîc
@@ -531,7 +528,6 @@ calcină
 calcinoză
 calcio
 calcio-vecchio
-calcio‑vecchio
 calcipenie
 calcipexie
 calcipriv
@@ -602,10 +598,9 @@ caldwell
 cale
 Calea
 Calea-Lactee
+Calea-Laptelui
+Calea-Robilor
 calea-valea
-Calea‑Laptelui
-Calea‑Robilor
-calea‑valea
 caleap
 calească
 caleașcă
@@ -828,8 +823,8 @@ calpuzănie
 caltaboș
 caltha
 calțavetă
-calul
-calul‑popii
+calul-dracului
+calul-popii
 calultroian
 calumet
 calumn-
@@ -1069,6 +1064,7 @@ canace
 canada
 canadensis
 canadian
+canadiană
 canadiancă
 canaf
 canafas
@@ -1104,7 +1100,6 @@ canara
 canare
 Canaria
 canariensis
-canarilor
 canaris
 canarisi
 canarisire
@@ -1400,12 +1395,12 @@ caolinoză
 caos
 caotic
 cap
+cap-de-cocoș
+cap-de-mort
 cap-haitien
 cap-în-tortur
 cap-în-tortură
 cap-întortur
-cap‑de‑cocoș
-cap‑de‑mort
 capabil
 capabilitate
 capablanca
@@ -1590,7 +1585,8 @@ capra
 capraea
 caprafoi
 capră
-capră‑neagră
+capră-de-munte
+capră-neagră
 Caprea
 caprei
 capreolat
@@ -1662,6 +1658,7 @@ captar
 captare
 captat
 captatio
+captatio benevolentiae
 captativitate
 captator
 captație
@@ -1692,14 +1689,15 @@ capucinadă
 capucino
 capudan
 capudan-pașa
-capudan‑pașa
 capudanpașa
 capugi-bașa
 capugibașa
 capugiu
-Capul-Verde
-capul‑lui‑Adam
-capul‑șarpelui
+Capul Verde
+capul-ariciului
+Capul-Balaurului
+capul-lui-Adam
+capul-șarpelui
 Capuleți
 capuolan
 capușon
@@ -2106,6 +2104,7 @@ care
 carea
 carei
 carelaj
+carele
 careleș
 carena
 carenaj
@@ -2144,10 +2143,12 @@ cargobot
 cargocult
 cargoplan
 cargou
+cari
 caria
 carianopol
 cariat
 cariatidă
+carib
 caribda
 caribi
 caric
@@ -2543,8 +2544,6 @@ carub
 carubier
 Carul-Mare
 Carul-Mic
-Carul‑Mare
-Carul‑Mic
 carum
 caruncul
 carunculă
@@ -2585,6 +2584,7 @@ casație
 casațiune
 casava
 casă
+casă-muzeu
 casâncă
 cascadat
 cascadă
@@ -2596,7 +2596,6 @@ cascadorie
 cascadorism
 cască
 cască-gură
-cască‑gură
 cascăgură
 caschetar
 caschetă
@@ -2706,6 +2705,7 @@ castiglione
 castilia
 castilian
 castiliana
+castiliană
 castină
 casting
 castisea
@@ -2727,7 +2727,7 @@ castrațiune
 castravan
 castravecior
 castravete
-castravete‑de‑mare
+castravete-de-mare
 castravetesălbatic
 castries
 castriet
@@ -2750,7 +2750,6 @@ casuncă
 casură
 casus
 casus-belli
-casus‑belli
 caș
 cașa
 cașalot
@@ -2947,6 +2946,7 @@ catăceartă
 catâr
 catârcă
 catch
+catch-can
 catcher
 catechism
 catecolamină
@@ -3054,7 +3054,6 @@ catoblepas
 catod
 catodic
 catodoluminescență
-catodoluminiscenta
 catodoluminiscență
 catogeneză
 catolcă
@@ -3614,8 +3613,7 @@ călțun
 călțunar
 călțunaș
 călțunăreasă
-călțunul
-călțunul‑doamnei
+călțunul-doamnei
 călugăr
 călugăraș
 călugăre
@@ -3643,11 +3641,10 @@ călușire
 călușiță
 călușul
 căluț
-căluț‑de‑mare
+căluț-de-mare
 căluțul
 cămară
-cămașa
-cămașa‑broaștei
+cămașa-broaștei
 cămașă
 cămașe
 cămatnic
@@ -3685,6 +3682,7 @@ cămil
 cămilar
 cămilă
 cămin
+cămin-spital
 căminar
 căminete
 cămineț
@@ -3788,9 +3786,8 @@ căpiere
 căpistere
 căpisterie
 căpitan
+căpitan-locotenent
 căpitan-pașa
-căpitan‑locotenent
-căpitan‑pașa
 căpitanat
 căpitanpașa
 Căpitanul
@@ -4046,7 +4043,6 @@ căsătoriu
 căsca
 căscare
 căscat
-căscată
 căscătură
 căscău
 căscăun
@@ -4168,12 +4164,15 @@ cățân
 cățână
 cățea
 cățel
-cățel‑de‑mare
+cățel-de-frasin
+cățel-de-mare
 cățelan
 cățelandru
 cățelar
 cățeli
 cățelire
+cățelul-frasinului
+cățelul-pământului
 cățeluș
 cățelușă
 căție
@@ -4246,14 +4245,12 @@ câi
 câina
 câinar
 câine
-câine‑câinește
-câine‑de‑mare
-câine‑lup
-câinele
-câinele‑babei
-Câinele‑Mare
-Câinele‑Mic
-câinelui
+câine-câinește
+câine-de-mare
+câine-lup
+câinele-babei
+Câinele-Mare
+Câinele-Mic
 câineni
 câinesc
 câinește
@@ -4300,6 +4297,7 @@ câmpină
 câmpineanca
 Câmpineanu
 câmpiu
+Câmpul
 câmpulung
 câmpulungean
 câmpulungeancă
@@ -4315,6 +4313,7 @@ cândea
 Cândești
 cândva
 câne
+cânepa-codrului
 cânepar
 cânepă
 cânepărie
@@ -4617,9 +4616,11 @@ cât
 câta
 câtcâi
 câte
+câtea
 câtelea
 câteodată
 câteși
+câteşi-
 câteșipatru
 câteșitrei
 câtilin
@@ -4643,8 +4644,6 @@ cd
 CD-player
 CD-ROM
 CD-writer
-CD‑player
-CD‑ROM
 CDR
 ce
 cea
@@ -4652,7 +4651,6 @@ ceabac
 ceabare
 ceac
 ceac-pac
-ceac‑pac
 ceacal
 ceacaribă
 ceacă
@@ -4726,8 +4724,7 @@ Ceanu
 Ceanu-mare
 ceaon
 ceap
-ceapa
-ceapa‑ciorii
+ceapa-ciorii
 ceapane
 ceapar
 ceapă
@@ -4794,6 +4791,7 @@ ceașcă
 ceașin
 ceașitlâc
 ceașnic
+ceat
 ceat-pat
 ceatal
 ceatalchioi
@@ -4961,6 +4959,8 @@ cehia
 cehlui
 cehni
 Ceho
+ceho-
+ceho-slovac
 cehoaică
 cehoslovac
 cehoslovacia
@@ -4988,6 +4988,7 @@ celadonit
 celaeno
 celafibră
 celakovsky
+celalalt
 celalt
 celan
 celaperm
@@ -5065,6 +5066,7 @@ celioscopie
 celiotomie
 celiuskin
 cella
+cellalt
 celle
 cellini
 cello
@@ -5220,6 +5222,7 @@ centeză
 centezimal
 centezimă
 centi
+centi-
 centiar
 centid
 centigrad
@@ -5657,8 +5660,7 @@ cerui
 ceruială
 ceruire
 ceruit
-cerul
-cerul‑gurii
+cerul-gurii
 ceruleină
 ceruleu
 ceruloplasmină
@@ -5857,6 +5859,7 @@ cezaric
 cezarin
 cezarism
 cezarizm
+cezaro-
 cezaro-crăiesc
 cezaropapism
 cezarotomie
@@ -5879,7 +5882,6 @@ cgs
 ch
 cha
 cha-cha-cha
-cha‑cha‑cha
 Chaban-Delmas
 chabrier
 chabrol
@@ -6116,6 +6118,7 @@ chei
 cheia
 cheiaj
 cheie
+cheie de boltă
 cheil
 cheilalgie
 cheilie
@@ -6232,6 +6235,7 @@ chemigrafie
 chemiluminescență
 chemiluminiscență
 chemin
+chemin de fer
 chemio
 chemisier
 chemitipie
@@ -6315,7 +6319,6 @@ chepegit
 chepeneag
 chepenel
 chepeng
-chept
 chera
 cherache
 cherachea
@@ -6411,7 +6414,6 @@ cherpiciu
 cherrapunji
 cherry
 cherry-brandy
-cherry‑brandy
 chersă
 chersân
 chersin
@@ -6512,10 +6514,10 @@ cheviot
 Chevreuil
 chewing
 chewing-gum
-chewing‑gum
 cheyenne
 chez
 chezap
+chezaro-
 chezaro-crăiesc
 chezaș
 chezașă
@@ -6558,7 +6560,7 @@ chiasmatic
 chiasmă
 chiatib
 chiau
-chiau‑chiau
+chiau-chiau
 chiaun
 chiavetta
 chiavi
@@ -6583,6 +6585,7 @@ chibzuire
 chibzuit
 chibzuitor
 chic
+chica-voinicului
 chicago
 chică
 chiceră
@@ -6823,10 +6826,13 @@ chimiluminescență
 chimiluminiscență
 chimineț
 chimio
+chimio-
 chimiochineză
 chimioluminescență
 chimioluminiscență
 chimion
+chimion-de-apă
+chimion-de-baltă
 chimiondecâmpuri
 chimionnegru
 chimioprofilaxie
@@ -7470,7 +7476,6 @@ chiz
 chiza
 chizap
 chizăș
-chizda
 chizedbă
 chizeș
 chizeșie
@@ -7522,11 +7527,11 @@ chose
 chosroes
 Chott
 chou
+chou a la creme
 choukoutien
 chovsgol
 chovsgol-nuur
 chow-chow
-chow‑chow
 chr
 chretien
 Chrisostom
@@ -7841,6 +7846,7 @@ cifrare
 cifrat
 cifrator
 cifră
+cifră-record
 cifric
 cifrogramă
 cifru
@@ -8010,7 +8016,7 @@ cinchinea
 cinchire
 cinchit
 cinci
-cinci‑degete
+cinci-degete
 cincila
 cincilă
 cincilea
@@ -8048,7 +8054,6 @@ cindură că
 cine
 cine-adevăr
 cine-verite
-cine‑verite
 Cinea
 cineamatoare
 cineamator
@@ -8084,7 +8089,6 @@ cinegrafie
 cineidee
 cinel
 cinel-cinel
-cinel‑cinel
 cinelimbaj
 cinelimbă
 cinelli
@@ -8271,8 +8275,7 @@ ciobanaș
 ciobanel
 ciobanilor
 ciobanu
-Ciobanul
-Ciobanul‑cu‑Oile
+Ciobanul-cu-Oile
 ciobăcan
 ciobălui
 ciobănaș
@@ -8316,8 +8319,7 @@ ciobre
 ciobuleț
 cioc
 cioc-boc
-cioc‑boc
-cioc‑întors
+cioc-întors
 cioca
 cioca-boca
 ciocaboca
@@ -8454,9 +8456,10 @@ ciocovețe
 ciocși
 cioctisi
 cioctisire
-ciocul
 ciocul berzei
-ciocul‑berzei
+ciocul-berzei
+ciocul-cocorului
+ciocul-cucoarei
 Cioculescu
 cioculeț
 ciodoroancă
@@ -8616,7 +8619,7 @@ cioranda
 ciorani
 cioranu
 ciorap
-ciorap‑pantaloni
+ciorap-pantaloni
 ciorăi
 ciorăiaș
 Ciorănescu
@@ -8672,7 +8675,6 @@ ciorgoloș
 cioric
 cioricar
 ciorică
-ciorii
 ciorimos
 ciorlan
 ciorlău
@@ -8776,7 +8778,7 @@ ciozni
 ciozvârtă
 ciozvîrtă
 cip
-cip‑cirip
+cip-cirip
 cipai
 cipaimă
 cipan
@@ -8917,9 +8919,7 @@ cirene
 cireș
 cireșar
 cireșă
-cireșe
 cireșel
-cireșelor
 cireșiu
 cireșnă
 cireșoaia
@@ -8942,7 +8942,7 @@ Ciril
 cirilic
 cirimuș
 cirip
-cirip‑cirip
+cirip-cirip
 ciripău
 ciripeală
 ciriped
@@ -9247,7 +9247,8 @@ ciubotăresc
 ciubotări
 ciubotărie
 ciubotărire
-ciuboțica‑cucululi
+ciuboțica-cucului
+ciuboțica-ursului
 ciuboțică
 ciubuc
 ciubucar
@@ -9398,8 +9399,7 @@ ciulniță
 ciulpan
 ciuluc
 ciulumină
-ciuma
-ciuma‑apelor
+ciuma-apelor
 ciumag
 ciumagiu
 ciumani
@@ -9428,7 +9428,6 @@ ciumecar
 ciumecărie
 ciumeg
 ciumeghiu
-ciumei
 ciumelcitură
 ciumeli
 ciumercă
@@ -9568,7 +9567,6 @@ ciuruit
 ciuruitor
 ciuruleasa
 ciurupească
-ciusau
 ciuș
 ciuș-ciuș
 ciușcă
@@ -9587,7 +9585,6 @@ ciutac
 ciutaler
 ciutan
 ciută
-ciutei
 ciuteică
 ciutrica
 ciutricare
@@ -10605,6 +10602,7 @@ clopotar
 clopotărie
 clopotici
 clopotniță
+clopoței
 clopoțel
 clopoțele
 clopoți
@@ -10697,7 +10695,7 @@ cloș
 cloșani
 cloșat
 Cloșca
-Cloșca‑cu‑Pui
+Cloșca-cu-Pui
 cloșcă
 cloșcărie
 cloșeton
@@ -10724,7 +10722,7 @@ clozet
 clu
 cluabilitate
 club
-club‑bar
+club-bar
 clubist
 clubman
 clubmen
@@ -10813,14 +10811,17 @@ coacționar
 coacțiune
 coacuzat
 coacuzată
-coada
-coada vacii
-coada‑mâței
-coada‑mâței‑de‑baltă
-coada‑raculul
-coada‑rândunicii
-coada‑vacii
-coada‑vulpii
+coada-calului
+coada-cocoșului
+coada-mâței
+coada-mâței-de-baltă
+coada-mielului
+coada-racului
+coada-rândunicii
+coada-șoricelului
+coada-vacii
+coada-vulpii
+coada-zmeului
 coadaptare
 coadă
 coadjutor
@@ -10866,6 +10867,7 @@ coamă
 coamăr
 coană
 coană-chiftiriță
+coană-mare
 coanăchiftiriță
 Coandă
 coantră
@@ -10901,9 +10903,7 @@ coastă
 coastăn
 coașcă
 coaște
-coate
 coate-goale
-coate‑goale
 coategoale
 coati
 coatzacoalcos
@@ -10975,6 +10975,7 @@ cobilă
 cobilcă
 cobilete
 cobilița
+Cobilița-Ciobanului
 cobilițar
 cobiliță
 cobire
@@ -11017,7 +11018,6 @@ cobzit
 coc
 coca
 coca-cola
-coca‑cola
 cocacolizare
 cocaială
 cocaie
@@ -11242,9 +11242,9 @@ cocostârc
 cocostârcă
 cocostîrc
 cocoș
-cocoș‑de‑mesteacăn
-cocoș‑de‑munte
-cocoș‑sălbatic
+cocoș-de-mesteacăn
+cocoș-de-munte
+cocoș-sălbatic
 cocoșa
 cocoșar
 cocoșare
@@ -11252,7 +11252,7 @@ cocoșat
 cocoșdai
 cocoșei
 cocoșel
-cocoșel‑de‑câmp
+cocoșel-de-câmp
 cocoșesc
 cocoșește
 cocoși
@@ -11481,6 +11481,7 @@ cofetar
 cofetăreasă
 cofetărie
 cofeturi
+coffee
 coffee-break
 cofinanța
 cofinanțare
@@ -11764,7 +11765,6 @@ colcovan
 colcrem
 colcui
 cold-cream
-cold‑cream
 coldab
 coldan
 coldană
@@ -11898,6 +11898,7 @@ coleșer
 coleși
 coleșire
 colet
+colet-capcană
 coletărie
 coleterapie
 colette
@@ -12194,20 +12195,17 @@ colțat
 colță
 colțea
 colți
-colții
-colții‑babei
+colții-babei
 colțișor
 colțorat
 colțoros
 colțos
-colțul
-colțul‑babei
+colțul-babei
 colțuleț
 colțun
 colțunaș
-colțunii
-colțunul
-colțunul‑popii
+colțunii-popii
+colțunul-popii
 colțurat
 colțuri
 colțuros
@@ -12477,7 +12475,6 @@ comique
 comis
 comis-călător
 comis-voiajor
-comis‑voiajor
 comisar
 comisariat
 comiscălător
@@ -12511,7 +12508,6 @@ comitet
 comïtia
 comițial
 comițialitate
-comiție
 comiții
 comițiu
 comiz
@@ -12525,7 +12521,7 @@ comlău
 comloșu
 comme
 commedia
-commedia dell arte
+commedia dellarte
 commelina
 commines
 commodo
@@ -12941,6 +12937,7 @@ comutație
 comutațiune
 comuz
 con
+con brio
 con-
 con-in-con
 conabiu
@@ -13050,6 +13047,7 @@ concertistic
 concertmaestru
 concertmaistru
 concerto
+concerto grosso
 concesie
 concesiona
 concesional
@@ -13649,7 +13647,7 @@ conjunctival
 conjunctivă
 conjunctivită
 conjunctor
-conjunctor‑disjunctor
+conjunctor-disjunctor
 conjunctural
 conjuncturalism
 conjunctură
@@ -14054,6 +14052,7 @@ conștiut
 cont
 conta
 contabil
+contabil-șef
 contabilă
 contabilicesc
 contabilitate
@@ -14212,6 +14211,7 @@ contorsiune
 contort
 contoș
 contra
+contra-
 contraacțiune
 contraacuzație
 contraacuzațiune
@@ -14277,6 +14277,7 @@ contraconcepțional
 contracronometru
 contracroșet
 contract
+contract-tip
 contracta
 contractabil
 contractabilitate
@@ -14428,6 +14429,7 @@ contrapune
 contrapunere
 contrapus
 contrar
+contrar (prep.)
 contrarandă
 contrare
 contrareacție
@@ -14518,7 +14520,6 @@ contrazis
 contră
 contre
 contre-jour
-contre‑jour
 contrebasse
 contrecoeur
 contredanse
@@ -14996,12 +14997,14 @@ coraco
 coracobrahial
 coracoclavicular
 coracoid
+coracoidă
 coracoidian
 coracoidită
 corai
 coraișit
 coraj
 coral
+coral (pl. -i)
 corală
 coralealbe
 coralgal
@@ -15051,9 +15054,9 @@ corăsli
 corăslire
 corăslit
 corb
-corb‑albastru
-corb‑de‑mare
-corb‑de‑noapte
+corb-albastru
+corb-de-mare
+corb-de-noapte
 corbancă
 corbasca
 corbe
@@ -15251,6 +15254,7 @@ corelabă
 corelare
 corelat
 corelativ
+corelativă
 corelativism
 corelativitate
 corelator
@@ -15412,7 +15416,8 @@ cormoran
 cormună
 cormură
 corn
-corn‑de‑secară
+corn-de-secară
+corn-flakes
 cornac
 cornacee
 cornaci
@@ -15490,8 +15495,9 @@ cornos
 cornovel
 cornu
 cornul
-Cornul‑Caprei
-cornul‑secarei
+Cornul-Caprei
+cornul-dracului
+cornul-secarei
 cornuleț
 cornurar
 cornurele
@@ -15682,6 +15688,7 @@ cortel
 cortelaș
 cortes
 cortese
+cortesuri
 corteș
 cortex
 cortez
@@ -15919,7 +15926,7 @@ Cosroe
 cossiga
 cost
 costa
-costa rica
+Costa Rica
 costa-foru
 Costa-Rica
 costache
@@ -16085,7 +16092,7 @@ cotat
 cotație
 cotațiune
 cotă
-cotă‑parte
+cotă-parte
 cotări
 cotărire
 cotărit
@@ -16561,7 +16568,7 @@ craflă
 cragaicuță
 crah
 crai
-crai‑nou
+crai-nou
 craidon
 craidorolț
 craig
@@ -16852,6 +16859,7 @@ creanță
 creanțier
 creanțieră
 creare
+creasta-cocoșului
 creastă
 creat
 creatam
@@ -17202,10 +17210,10 @@ crimodinie
 crimofite
 crimoterapie
 crin
-crin‑de‑mare
-crin‑de‑pădure
-crin‑de‑toamnă
-crin‑galben
+crin-de-mare
+crin-de-pădure
+crin-de-toamnă
+crin-galben
 crină
 crincă
 crinieră
@@ -17384,6 +17392,7 @@ crispus
 crist
 cristac
 cristal
+cristal-de-stâncă
 cristalerie
 cristalic
 cristalifer
@@ -17430,7 +17439,7 @@ cristatus
 cristă
 cristea
 cristei
-cristei‑de‑baltă
+cristei-de-baltă
 cristel
 cristelniță
 cristeneasă
@@ -17852,6 +17861,8 @@ croznie
 crth
 cruce
 crucea
+crucea-pământului
+crucea-voinicului
 crucelnic
 crucelniță
 crucer
@@ -18119,7 +18130,7 @@ cubuleț
 cubur
 cuburel
 cuc
-cuc‑armenesc
+cuc-armenesc
 cuca
 cucaracia
 cucă
@@ -18230,8 +18241,8 @@ cucuruziște
 cucușor
 cucuta
 cucută
-cucută‑de‑apă
-cucută‑de‑pădure
+cucută-de-apă
+cucută-de-pădure
 cucutăînveninată
 cucutămică
 cucute
@@ -18677,7 +18688,7 @@ cunună
 cununie
 cununiță
 cupa
-cupa‑vacii
+cupa-vacii
 cupaj
 cupajare
 cupal
@@ -18722,7 +18733,7 @@ cupletist
 cupletistă
 cuplor
 cuplu
-cuplu‑maestru
+cuplu-maestru
 cupman
 cupoc
 cupolă
@@ -18897,7 +18908,7 @@ cure
 curea
 cureac
 curechi
-curechi‑de‑munte
+curechi-de-munte
 curechisălbatic
 curechiște
 curechiștină
@@ -18990,6 +19001,7 @@ currente
 curri
 curricular
 curriculum
+curriculum vitae
 curry
 curs
 cursant
@@ -19225,7 +19237,7 @@ cuță
 cuțescu
 cuțescu-storck
 cuțit
-cuțit‑de‑mare
+cuțit-de-mare
 cuțita
 cuțitar
 cuțitaș
@@ -19246,9 +19258,11 @@ cuțurie
 cuvadă
 cuvă
 cuvânt
-cuvânt‑cheie
-cuvânt‑matcă
-cuvânt‑vedetă
+cuvânt-cheie
+cuvânt-înainte
+cuvânt-matcă
+cuvânt-titlu
+cuvânt-vedetă
 cuvânta
 cuvântar
 cuvântare
