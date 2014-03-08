@@ -93,6 +93,8 @@ jalapa
 jalapă
 jalbă
 jale
+jale-de-câmp
+jale-de-grădină
 Jalea
 jaleo
 jaleș
@@ -911,7 +913,6 @@ jiță
 Jiu
 Jiu-de-sus
 jiu-jitsu
-jiu‑jitsu
 Jiulong
 jivală
 jivan
@@ -1016,6 +1017,7 @@ Johor
 Johore
 joi
 joia
+Joia Mare
 joian
 joiana
 joiană
@@ -1375,7 +1377,7 @@ jumălțui
 jumănărat
 jumătate
 jumătate-de-om
-jumătate‑de‑pasăre
+jumătate-de-pasăre
 jumătăța
 jumătățare
 jumătățat
@@ -1384,7 +1386,6 @@ jumătățire
 jumătățit
 jumbo
 jumbo-jet
-jumbo‑jet
 jumede
 jumedie
 jumela
@@ -1427,6 +1428,7 @@ juncuț
 juncuță
 Jundiai
 june
+june-prim
 Juneau
 junecuț
 junel
@@ -1525,8 +1527,7 @@ jupuitor
 jupuitură
 jur
 jur-fix
-jur‑fix
-jur‑împrejur
+jur-împrejur
 jura
 Juran
 jurandă
