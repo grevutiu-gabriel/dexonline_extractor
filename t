@@ -1,7 +1,7 @@
 t
-t-shirt
+T-shirt
 ta
-ta‑ta‑ta
+ta-ta-ta
 ta’
 taaffe
 taal
@@ -56,7 +56,6 @@ tabinet
 tabinshwehti
 tabla
 tabla-bașa
-tabla‑bașa
 tablabaș
 tablagiu
 tablatură
@@ -92,6 +91,7 @@ tabuizare
 tabuizat
 tabul
 tabula
+tabula rasa
 tabular
 tabulare
 tabularitate
@@ -109,7 +109,6 @@ taburel
 taburet
 tac
 tac-tac
-tac‑tac
 taca
 tacă
 tacâm
@@ -263,13 +262,13 @@ tahtalâc
 tahtalîc
 tahvil
 tai
-tai‑mălaiul
+tai-mălaiul
 Taibo
 taică
-taică‑meu
+taică-meu
 taie
 taie-babă
-taie‑fugă
+taie-fugă
 taiebabă
 taiefugă
 taier
@@ -423,15 +422,12 @@ taliune
 talîm
 talk
 talk-show
-talk‑show
 talkie
 talkie-walkie
-talkie‑walkie
 Talleyrand
 talmă
 talmeș
 talmeș-balmeș
-talmeș‑balmeș
 talmeșbalmeș
 talmud
 talmudic
@@ -453,8 +449,8 @@ talonetă
 Talos
 talpa
 talpa pisicii
-talpa‑gâștei
-talpa‑stâncii
+talpa-gâștei
+talpa-stâncii
 talpagâștii
 talpalar
 talpă
@@ -477,8 +473,6 @@ tam
 tam-nesam
 tam-nisam
 tam-tam
-tam‑nisam
-tam‑tam
 tamachiar
 taman
 tamandua
@@ -503,7 +497,6 @@ tambourine
 tambuchi
 tambur
 tambur-major
-tambur‑major
 tambura
 tamburare
 tamburatoare
@@ -886,7 +879,7 @@ tartalac
 tartan
 tartană
 tartaon
-tartar
+Tartar
 tartaric
 tartarici
 tartarin
@@ -955,8 +948,8 @@ tașnieț
 tat
 tata
 tata-mare
-tata‑moșul
-tata‑socrul
+tata-moșul
+tata-socrul
 tataia
 tataie
 tatami
@@ -965,8 +958,8 @@ tatar
 Tataria
 tataricum
 tată
-tată‑mare
-tată‑meu
+tată-mare
+tată-meu
 Tatăl
 tati
 tatige
@@ -1363,7 +1356,7 @@ tămâioară
 tămâioasă
 tămâios
 tămâiță
-tămâiță‑de‑câmp
+tămâiță-de-câmp
 tămânda
 tămândare
 tămânjac
@@ -1581,7 +1574,7 @@ tătăroaie
 tătăroi
 tătân
 tătâne
-tătâne‑meu
+tătâne-meu
 tătânesc
 tătic
 tătică
@@ -1805,7 +1798,6 @@ târâi
 târâială
 târâie
 târâie-brâu
-târâie‑brâu
 târâiebrâu
 târâire
 târâiș
@@ -1816,7 +1808,6 @@ târâitură
 târâre
 târâș
 târâș-grăpiș
-târâș‑grăpiș
 târâșgrăpiș
 târât
 târâtoare
@@ -2054,7 +2045,6 @@ te
 te deum
 tea
 tea-room
-tea‑room
 teaaa
 teacă
 teacăr
@@ -2118,10 +2108,8 @@ tecărău
 tecărui
 tecăruire
 tecăruit
-tech
 techer
 techer-mecher
-techer‑mecher
 techergău
 techergheu
 techerghi
@@ -2244,7 +2232,7 @@ tehnicitate
 tehniciza
 tehnicizare
 tehnicizat
-tehnico‑economic
+tehnico-economic
 tehnicolor
 tehnie
 tehnirama
@@ -2334,7 +2322,6 @@ teleancă
 teleanchetă
 teleap
 teleap-teleap
-teleap‑teleap
 teleapteleap
 teleast
 teleașcă
@@ -3104,7 +3091,6 @@ terbentină
 terbiu
 terchea
 terchea-berchea
-terchea‑berchea
 tercheaberchea
 terchilă
 terci
@@ -3269,7 +3255,6 @@ termo
 termo-
 termo-chimie
 termo-dinamică
-termo-electricitate
 termoacustic
 termoacustică
 termoanalgezie
@@ -3577,6 +3562,7 @@ tesmotet
 Tessin
 test
 test-cross
+test-grilă
 testa
 testabil
 testaceu
@@ -3962,8 +3948,7 @@ Tibur
 Tiburtus
 tic
 tic-tac
-tic‑tac
-tic‑tic
+tic-tic
 tica
 tica-taca
 tical
@@ -4151,7 +4136,7 @@ tiliacee
 tiliaceu
 tililic
 tilinc
-tilinc‑tilinc
+tilinc-tilinc
 tilinca
 tilincă
 tilincuță
@@ -4203,7 +4188,6 @@ time-out
 time-share
 time-sharing
 time-sheet
-time‑out
 timectomie
 timeo
 times
@@ -4421,7 +4405,6 @@ tip
 tip-top
 tipa
 tipa-tipa
-tipa‑tipa
 tipaj
 tipamă
 tipar
@@ -4989,7 +4972,7 @@ tobralco
 tobșoară
 tobultoc
 toc
-toc‑toc
+toc-toc
 toca
 tocaci
 tocală
@@ -5205,7 +5188,6 @@ toluidină
 tolvăi
 tom
 tom-tom
-tom‑tom
 Toma
 tomaci
 tomahawk
@@ -5222,7 +5204,6 @@ tomberonist
 tombolă
 tombolo
 tome
-Tomei
 toment
 tomentos
 Tomi
@@ -5270,9 +5251,10 @@ tonare
 tonatec
 tonatic
 tonă
-tonă‑forță
-tonă‑kilometru
-tonă‑registru
+tonă-deadweight
+tonă-forță
+tonă-kilometru
+tonă-registru
 tonca
 tondo
 tone
@@ -5776,13 +5758,10 @@ trachinide
 trachit
 Tracia
 tracic
-track
 traco
 traco-dac
+traco-dacă
 traco-dacic
-traco‑dac
-traco‑dacă
-traco‑dacic
 tracolog
 tracologă
 tracologic
@@ -5816,7 +5795,6 @@ trade-center
 trade-union
 trade-unionism
 trade-unionist
-trade‑union
 tradescanția
 tradidan
 traditore
@@ -5839,7 +5817,7 @@ tradunt
 tradus
 traduttore
 trafalet
-trafalgar
+Trafalgar
 trafă
 trafic
 trafica
@@ -5931,6 +5909,7 @@ traină
 trainer
 trainic
 training
+traista-ciobanului
 traistă
 traistră
 traivan
@@ -5962,7 +5941,6 @@ tranc
 tranca
 tranca-fleanca
 tranca-tranca
-tranca‑fleanca
 trancafleanca
 trancafuse
 trancan
@@ -5981,8 +5959,8 @@ trandadaie
 trandafir
 trandafir de Japonia
 trandafir-de-Japonia
-trandafir‑de‑mare
-trandafir‑de‑munte
+trandafir-de-mare
+trandafir-de-munte
 trandafiraș
 trandafirel
 trandafirgalben
@@ -6632,14 +6610,13 @@ tre
 treaba
 treabă
 treacă
-treacă‑meargă
+treacă-meargă
 treacăt
 tream
 treampă
 treanc
 treanca
 treanca-fleanca
-treanca‑fleanca
 treanță
 treap
 treapăd
@@ -6698,16 +6675,15 @@ tregvă
 trehe
 trei
 trei-crai
+trei-frați
 trei-frați-pătați
 Trei-Ierarhi
+trei-leșeștile
+trei-păzește
 Trei-Scaune
 trei-spre-zece
 trei-spre-zecelea
 trei-zeci
-trei‑frați
-trei‑frați‑pătați
-trei‑leșeștile
-trei‑păzește
 treia
 treiaj
 treicolori
@@ -6740,7 +6716,6 @@ treizecilea
 treizecișidoime
 trela
 trela-lela
-trela‑lela
 trelalela
 trele
 Tremarec
@@ -6782,7 +6757,7 @@ tremuriște
 tremuros
 tren
 tren-avion
-tren‑fulger
+tren-fulger
 trena
 trenaj
 trenajor
@@ -6859,14 +6834,14 @@ tresn-
 tresnet
 trestică
 trestie
-trestie‑de‑zahăr
-trestie‑spaniolă
+trestie-de-zahăr
+trestie-spaniolă
 trestiiș
 trestioară
 tresură
 treti
 treti-
-treti‑logofăt
+treti-logofăt
 tretin
 tretină
 tretior
@@ -7403,7 +7378,7 @@ tritiu
 tritium
 Trito
 Tritogenia
-triton
+Triton
 Tritonia
 tritonidă
 tritura
@@ -7639,6 +7614,7 @@ tromel
 tromf
 trompă
 trompe
+trompe-loeil
 trompet
 trompetaș
 trompetă
@@ -7653,8 +7629,6 @@ tronc
 tronca
 tronca-tranca
 tronca-tronca
-tronca‑tranca
-tronca‑tronca
 troncan
 troncatură
 troncăni
@@ -7681,6 +7655,7 @@ tropăi
 tropăială
 tropăire
 tropăit
+tropăita
 tropăită
 tropăitură
 tropcă
@@ -7713,6 +7688,7 @@ tropotă
 tropoti
 tropotire
 tropotit
+tropotita
 tropotită
 tropotitură
 tropoțel
@@ -7752,7 +7728,6 @@ trotina
 trotinare
 trotinetă
 trotoar
-trotter
 trotteur
 trotuar
 trotuș
@@ -7786,7 +7761,7 @@ truchin
 truchin-
 truchinar
 truchină
-trucial
+Trucial States
 trucic
 truck
 trucocefaloză
@@ -8264,7 +8239,6 @@ tupusti
 tur
 tura
 tura-vura
-tura‑vura
 turaco
 turaliu
 turan
@@ -8529,7 +8503,8 @@ turritella
 turș
 turșug
 turta
-turta‑vacii
+turta-lupului
+turta-vacii
 turtale
 turtă
 turtădulce
@@ -8648,7 +8623,6 @@ tutte
 tutti
 tutti-frutti
 tutti-quanti
-tutti‑frutti
 tuttifrutti
 tutu
 tutuc
