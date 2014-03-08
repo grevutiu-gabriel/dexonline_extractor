@@ -26,9 +26,7 @@ dacism
 dacit
 dacită
 dacnomanie
-daco
 daco-roman
-daco‑roman
 DACOROMANIA
 dacoromân
 dacoromână
@@ -155,7 +153,6 @@ DALADIER
 dalai
 DALAI LAMA
 dalai-lama
-dalai‑lama
 DALAINOR
 dalaj
 DALÄLVEN
@@ -378,6 +375,8 @@ dardanus
 dardă
 dardăr
 dare
+dare de mână
+dare de seamă
 dares
 daret
 Darfur
@@ -503,6 +502,7 @@ Day
 dayac
 dayacă
 Dayan
+Dayr
 Dayton
 Daytona
 dazdrazfutu-i
@@ -718,10 +718,12 @@ Dâmbovicioara
 Dâmbovița
 dâmbovițean
 dâmbovițeancă
+Dâmbovnic
 Dâmbu
 dâmbuleț
 dâmbușor
 dângă
+Dângeni
 dâns
 dâns-de-dimineață
 dânsa
@@ -758,6 +760,8 @@ dârjă
 dârjea
 dârjenie
 dârjie
+Dârjiu
+Dârjov
 dârlai
 dârlăi
 dârlău
@@ -768,6 +772,8 @@ dârloagă
 dârlog
 dârlogel
 dârloi
+Dârlos
+Dârmănești
 dârmoc
 dârmoi
 dârmoia
@@ -791,6 +797,7 @@ Dârstor
 dârștină
 dârvală
 dârvar
+Dârvari
 dârvăreală
 dârvări
 dârz
@@ -803,6 +810,7 @@ ddt
 de
 de a
 de altminteri
+de facto
 de geaba
 de gemene
 de iure
@@ -813,6 +821,8 @@ de jur împrejur
 de jur împrejurul
 de jure
 de pe
+de sine stătător
+de treabă
 de vreme ce
 de-a curmezișul
 de-a dreapta
@@ -821,10 +831,11 @@ de-a-n picioarelea
 de-a-nboulea
 de-a-ndaratelea
 de-a-ndoaselea
+de-a-ntregul
 de-adevaratelea
-de‑a‑ntregul
 dea
 deabă
+Deac
 deacă
 dead-heat
 deadevăr
@@ -837,6 +848,7 @@ deaferentat
 deaghilev
 deaici
 Deak
+Deakin
 deal
 deală
 dealcooliza
@@ -903,6 +915,7 @@ debirocratiza
 debirocratizare
 debit
 debita
+debitabil
 debitant
 debitantă
 debitare
@@ -963,6 +976,7 @@ debruiere
 debucla
 debuclare
 debuclat
+debugetare
 debulona
 debulonare
 debulonat
@@ -970,6 +984,7 @@ debura
 deburaj
 deburare
 deburat
+Deburau
 deburba
 deburbaj
 deburbare
@@ -1010,6 +1025,7 @@ decadentism
 decadență
 decadic
 decadraj
+Decae
 decaedru
 decafeiniza
 decafeinizare
@@ -1052,6 +1068,7 @@ decalvant
 decalvație
 decameron
 decametru
+Decamps
 decan
 decanal
 decanat
@@ -1522,7 +1539,7 @@ decrepitudine
 decrescendo
 decrescent
 decret
-decret‑lege
+decret-lege
 decreta
 decretală
 decretaliu
@@ -1630,7 +1647,7 @@ dedină
 dedit
 dediță
 dedițel
-dedițel‑de‑mare
+dedițel-de-mare
 dedițiu
 dedogmatiza
 dedogmatizare
@@ -1943,7 +1960,6 @@ degete
 degetuț
 degețel
 degețel-roșu
-degețel‑roșu
 deghipsare
 deghiza
 deghizaj
@@ -2043,8 +2059,12 @@ dehidrogenat
 dehidrogenază
 dehiscent
 dehiscență
+Dehiwala
+Dehmel
+Dehmelt
 dehobi
 dehoca
+Dehra
 dehula
 dehulare
 dehulat
@@ -2060,6 +2080,7 @@ deifica
 deificare
 deificat
 deifob
+Deimos
 deina
 deinde
 deinoteron
@@ -2067,7 +2088,9 @@ deione
 deionizare
 deiphobe
 deiphobus
+Deir
 deirmea
+Deisenhofer
 deisis
 deism
 deist
@@ -2076,7 +2099,7 @@ deîmpărțit
 deînmulțit
 dej
 deja
-dejà‑vu
+dejà-vu
 dejalen
 dejalenă
 Dejanira
@@ -2099,6 +2122,7 @@ dejivrat
 dejivror
 dejmă
 dejmui
+Dejnev
 dejojare
 dejuca
 dejucare
@@ -2115,6 +2139,7 @@ dejurîmprejur
 dejurnă
 dejurstvă
 dekkan
+Dekker
 del
 dela
 delabializa
@@ -2126,19 +2151,26 @@ delaborat
 delabra
 delabrare
 delabrat
+Delacroix
 Delafras
+Delagoa
+Delambre
+Delannoy
 delaolaltă
 delapida
 delapidare
 delapidat
 delapidatoare
 delapidator
+Delaroche
 delarvizare
 delatoare
 delator
 delațiune
+Delaunay
 Delavrancea
 Delawar
+Delaware
 delă
 delăsa
 delăsare
@@ -2146,6 +2178,8 @@ delăsător
 delătura
 delăturare
 delăturat
+Delbet
+Delbruck
 delco
 delcou
 delcredere
@@ -2159,6 +2193,7 @@ delectant
 delectare
 delectat
 delectație
+Deledda
 delega
 delegare
 delegat
@@ -2166,6 +2201,7 @@ delegatar
 delegată
 delegație
 delegațiune
+Delemont
 delenda
 delendam
 Deleni
@@ -2175,9 +2211,11 @@ delesiag
 delesta
 delestare
 delestat
+Delești
 deleter
 deletnic
 deletnici
+Deleuze
 delexicaliza
 delexicalizare
 delexicalizat
@@ -2198,6 +2236,7 @@ delfinolog
 delfinologă
 delfinologie
 Delfinul
+Delft
 Delgada
 Delgado
 Delhi
@@ -2217,6 +2256,7 @@ deliberat
 deliberativ
 deliberație
 deliberațiune
+Delibes
 delicat
 delicatesă
 delicateță
@@ -2490,6 +2530,7 @@ demobilizare
 demobilizat
 demobilizator
 democrat
+democrat-creștin
 democratic
 democratism
 democratiza
@@ -2714,7 +2755,6 @@ denivelare
 denivelat
 denivelație
 Denizi
-denmark
 denombra
 denombrabil
 denombrare
@@ -3864,7 +3904,6 @@ desincronizare
 desincronizat
 desinență
 desinențial
-desinestătător
 desinit
 desista
 desistare
@@ -4487,7 +4526,6 @@ detractoare
 detractor
 detracție
 detracțiune
-detreabă
 detresă
 detribalizare
 detriment
@@ -4550,7 +4588,6 @@ deutoneuron
 deutoplasmă
 deux
 deux-pieces
-deux‑pièces
 Deva
 devale
 devaliza
@@ -6174,6 +6211,7 @@ dimprejuru
 dimprejurul
 dimpreună
 din
+din moși-strămoși
 din untru
 dinadins
 dinadinsul
@@ -6248,7 +6286,7 @@ dinescian
 Dinescu
 dineu
 ding
-ding‑dang
+ding-dang
 dingă
 dinghi
 dingo
@@ -6285,30 +6323,32 @@ dintăi
 dintâi
 dintâiu
 dinte
+dinte-de-cal
+dintele-calului
+dintele-dracului
 dintotdeauna
 dintr
+dintr-acela
+dintr-acesta
+dintr-acoace
+dintr-acolo
+dintr-adins
+dintr-al
+dintr-altul
+dintr-atât
+dintr-î
+dintr-o
 dintr-odata
-dintr‑acela
-dintr‑acesta
-dintr‑acoace
-dintr‑acolo
-dintr‑adins
-dintr‑al
-dintr‑altul
-dintr‑atât
-dintr‑î
-dintr‑o
-dintr‑un
+dintr-un
 dintre
 dintru
-dintru‑ntâi
+dintru-ntâi
 dința
 dințar
 dințare
 dințat
 dințărit
 dințătură
-dinți
 dințisor
 dințișor
 dințură
@@ -6547,13 +6587,10 @@ dirijorat
 dirimant
 diritto
 dirmea
-dirt
 dirt-track
-dirt‑track
 dirty
 dis
 dis-de-dimineață
-dis‑de‑dimineață
 disacuzie
 disagio
 disamară
@@ -6564,7 +6601,6 @@ disbazie
 disbulie
 disc
 disc-jockey
-disc‑jockey
 discal
 discalcemie
 discalculie
@@ -7317,8 +7353,9 @@ Dnestr
 do
 doab
 doagă
+doamna-codrului
 doamnă
-doamnă‑mare
+doamnă-mare
 doamne-ajută
 doamnei
 doanță
@@ -7578,8 +7615,8 @@ dohotar
 dohotniță
 dohtor
 doi
-doi‑dinți
-doi‑frați
+doi-dinți
+doi-frați
 doică
 Doicescu
 Doicești
@@ -7756,7 +7793,6 @@ domirire
 domirit
 Domițian
 domn
-domnească
 domnesc
 domnește
 Domnești
@@ -7986,7 +8022,7 @@ Dositei
 dositor
 dosnic
 dosnică
-dosnică‑galbenă
+dosnică-galbenă
 dosnicăvânătă
 dosodi
 dosoftei
@@ -8088,7 +8124,7 @@ draba
 Drabble
 drabină
 drac
-drac‑de‑mare
+drac-de-mare
 dracă
 dracena
 Drachmann
@@ -8340,7 +8376,7 @@ drenă
 drenor
 drepnea
 drept
-drept‑credincios
+drept-credincios
 dreptaci
 dreptar
 dreptate
@@ -8443,7 +8479,7 @@ droaie
 droangă
 droanță
 drob
-drob‑de‑munte
+drob-de-munte
 drobarimos
 drobariseală
 drobișor
@@ -8540,7 +8576,7 @@ drujbar
 drujbă
 drujincă
 drum
-drum‑de‑fier
+drum-de-fier
 drumar
 drumaș
 drumătoriu
@@ -8583,7 +8619,7 @@ dryopes
 dryops
 dst
 du
-du‑te‑vino
+du-te-vino
 dual
 dualism
 dualist
@@ -8637,13 +8673,11 @@ dublon
 dublor
 dublou
 dublu
+dublu-casetofon
 dublu-cicero
 dublu-decalitru
 dublu-decimetru
 dublu-ster
-dublu‑decalitru
-dublu‑decimetru
-dublu‑ster
 dublucasetofon
 dublură
 dublutext
@@ -8663,7 +8697,6 @@ Ducas
 ducat
 ducă
 ducă-se-pe-pustii
-ducă‑se‑pe‑pustii
 ducăreț
 ducător
 Duccio
@@ -8826,7 +8859,6 @@ dulceag
 dulceață
 dulcegărie
 Dulcești
-dulci
 dulcicol
 Dulcigno
 dulcimer
@@ -8873,7 +8905,6 @@ dulvuri
 dulzian
 dum
 dum-dum
-dum‑dum
 duma
 dumadă
 dumană
@@ -8913,6 +8944,7 @@ dumicat
 duminecă
 duminecea
 duminica
+Duminica Tomei
 duminical
 duminicală
 duminică
@@ -9034,9 +9066,7 @@ după
  ochioscop
 după-amiază
 după-masă
-după‑amiază
-după‑masă
-după‑prânz
+după-prânz
 dupăci
 dupăcinare
 dupăcire
@@ -9082,6 +9112,7 @@ Duque
 dur
 dur-dur
 dura
+dura mater
 dura-vura
 durabil
 durabilitate
@@ -9257,6 +9288,7 @@ Dutilleux
 Dutra
 duty
 duty-bugle
+duty-free
 Duțu
 duumvir
 duumviral
