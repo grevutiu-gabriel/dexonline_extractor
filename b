@@ -374,7 +374,6 @@ baile
 baileu
 bain
 bain-marie
-bain‑marie
 bainită
 Bains
 Bainville
@@ -662,7 +661,7 @@ balogh
 balograf
 balomir
 balon
-balon‑sondă
+balon-sondă
 balona
 balonaj
 balonament
@@ -963,6 +962,10 @@ barăngi
 barăngire
 barâșnic
 barba
+barba-caprei
+barba-împăratului
+barba-lupului
+barba-ursului
 barbacană
 barbadensis
 barbados
@@ -983,6 +986,7 @@ barbarolalie
 barbarossa
 barbata
 barbă
+barbă-albastră
 barbă-cot
 barbecue
 barbelat
@@ -1302,7 +1306,6 @@ Basho
 basic
 basic-english
 basic-french
-Basic‑English
 basidie
 basidiomicetă
 basidiospor
@@ -1807,10 +1810,12 @@ băftos
 băga
 băgaciu
 băgare
+băgare de seamă
 băgat
 băgăcios
 băgăreț
 băgător
+băgător de seamă
 băgătură
 băgău
 băgrin
@@ -2042,8 +2047,6 @@ bălțean
 bălțeancă
 Bălțești
 bălți
-bălții
-bălților
 bălțit
 bălur
 bălură
@@ -2262,6 +2265,7 @@ băștinaș
 băt
 bătaci
 bătaie
+bătaie de joc
 bătarci
 bătăcui
 bătăiaș
@@ -3303,7 +3307,6 @@ bervi
 berwald
 berza
 berzasca
-berzei
 berzeliu
 berzelius
 berzovia
@@ -3515,6 +3518,7 @@ bhumibol
 bhutan
 bhutto
 bi
+bi-
 bia
 biacid
 biacuminat
@@ -3636,6 +3640,7 @@ Bichiș
 bichon
 bici
 bicicletă
+bicicletă-tandem
 biciclete
 biciclic
 biciclist
@@ -3758,12 +3763,16 @@ bifurcat
 bifurcație
 bifuzelat
 big
+big band
+Big Bang
 big bend
 Big Brother
+big-band
 big-store
 bigam
 bigamie
 bigă
+bigband
 bigeminat
 bigeminism
 bigeneric
@@ -3940,9 +3949,9 @@ bindisire
 bindstone
 bine
 bine-credincios
-bine‑crescut
-bine‑cunoscut
-bine‑venit
+bine-crescut
+bine-cunoscut
+bine-venit
 binecrescut
 binecunoscut
 binecuvânta
@@ -4003,6 +4012,7 @@ bintătuire
 bintătuit
 binucleat
 bio
+bio-
 bioactiv
 bioacumulare
 bioacumulat
@@ -4629,6 +4639,7 @@ bjorneborg
 bjornson
 bjornsson
 bk
+bla
 bla-bla
 blabornic
 blacheu
@@ -4951,7 +4962,6 @@ blid
 blida
 blidar
 blidaru
-blide
 blier
 blimp
 blind
@@ -4975,7 +4985,6 @@ blobojire
 bloc
 bloc-diagramă
 bloc-turn
-bloc‑turn
 bloca
 blocabil
 blocadă
@@ -5023,6 +5032,7 @@ bloomfield
 blucă
 blucher
 blue
+blue-jeans
 bluejeans
 bluemountains
 blues
@@ -5058,6 +5068,7 @@ boabă
 Boabdil
 boacă
 boacăn
+boacănă
 boace
 boactăr
 boacter
@@ -5279,6 +5290,8 @@ bodrog
 bodrogăni
 bodrogănire
 body
+body building
+bodybuilding
 bodyguard
 bodyguardism
 boehmeria
@@ -5315,7 +5328,6 @@ bogasin
 bogasiu
 bogat
 bogata
-bogată
 bogatâr
 bogați
 bogaz
@@ -5728,6 +5740,7 @@ bompiani
 bompres
 Bomu
 bon
+bon soir
 bona
 bonadea
 bonaire
@@ -5855,9 +5868,7 @@ bonză
 bonzălău
 boogie
 boogie-woogie
-boogie‑woogie
 book-maker
-book‑maker
 boole
 boolean
 boom
@@ -6154,8 +6165,8 @@ bosorcău
 bosorcoaie
 boss
 boss windjammer
+bossa
 bossa-nova
-bossa‑nova
 bossism
 bossuet
 bostan
@@ -6183,6 +6194,7 @@ boșcaiu
 boșcă
 boșcea
 boșiman
+boșimană
 boșire
 Boșneag
 boșoalcă
@@ -6272,6 +6284,7 @@ botoșănean
 botoșăneancă
 botoșel
 botoșeștipaia
+botoși
 botridie
 botrie
 botrio
@@ -6313,6 +6326,9 @@ boțog
 boțoroagă
 boțorog
 bou
+bou-de-apă
+bou-de-baltă
+bou-de-mare
 bouake
 bouar
 bouchard
@@ -6325,7 +6341,9 @@ bougainville
 bougainvillea
 bougle
 bouguer
-boul
+boul-Domnului
+boul-lui-Dumnezeu
+boul-popii
 boulanger
 boulangerit
 boulangism
@@ -6400,7 +6418,6 @@ bowl
 bowling
 box
 box-office
-box‑office
 boxa
 boxai
 boxare
@@ -6471,6 +6488,8 @@ bractee
 bracteie
 bracteolă
 brad
+brad-negru
+brad-roșu
 bradbury
 bradeni
 bradford
@@ -6505,7 +6524,7 @@ bradley
 bradoș
 bradt
 bradu
-bradul
+bradul-ciumei
 braga
 Bragadir
 bragadiru
@@ -6569,6 +6588,7 @@ braică
 braille
 braillogramă
 brain
+brain drain
 brain-drain
 brainstorming
 braișvanț
@@ -6715,7 +6735,6 @@ brazii
 brazilia
 brazilian
 braziliancă
-brazilor
 brazos
 brazură
 brazza
@@ -6806,6 +6825,8 @@ brâglar
 brâglă
 brânaci
 brână
+brânca-porcului
+brânca-ursului
 brâncariță
 brâncaș
 brâncă
@@ -6835,8 +6856,10 @@ brâneț
 brânișor
 brânt
 brânza
+brânza-iepurelui
 brânzar
 brânză
+brânză-n-sticlă
 brânzăreasă
 brânzărie
 brânzeiu
@@ -7001,7 +7024,7 @@ briboi
 bribor
 bribornic
 bric
-bric‑à‑brac
+bric-a-brac
 bricabrac
 briceag
 bricelat
@@ -7132,8 +7155,9 @@ Broadcasting
 broadpeak
 broajbă
 broancă
-broasca
+broasca-apei
 broască
+broască-țestoasă
 broaștei
 broatec
 broazbă
@@ -7436,7 +7460,6 @@ Brumărescu
 brumărie
 brumăriță
 brumăriu
-brumei
 brumel
 brumos
 brun
@@ -7519,10 +7542,11 @@ bubalină
 bubastis
 bubat
 bubă
+bubă-neagră
 bubău
 bubâlcă
 bubbolo
-bube
+bube-dulci
 bubecs
 buber
 buberic
@@ -7895,9 +7919,12 @@ bugnar
 buguldesud
 buh
 buha
+buha-semănăturilor
+buha-verzei
 buhab
 buhadă
 buhai
+buhai-de-baltă
 buhaiu
 buhara
 buharin
@@ -8216,9 +8243,12 @@ bumbuț
 bumerang
 bun
 bun-gust
+bun-plac
+bun-platnic
+bun-rămas
 bun-simț
-bun‑platnic
 buna
+Buna Vestire
 Buna-speranță
 buna-vestire
 bunacuviință
@@ -8226,6 +8256,10 @@ bunană
 bunar
 bunavoință
 bună
+bună-credință
+bună-creștere
+bună-cuviință
+bună-dimineața
 bunăcuviință
 bunăoară
 bunăseamă
@@ -8383,6 +8417,7 @@ burelaj
 burelet
 buret
 burete
+burete-de-mare
 bureteacru
 buretebălos
 buretecreț
@@ -8423,6 +8458,9 @@ burghezificare
 burghezime
 burghezire
 burghezo
+burghezo-democratic
+burghezo-moșieresc
+burghezo-moșierime
 burghiaș
 burghiere
 burghieș
@@ -8446,6 +8484,7 @@ buricare
 buricat
 buricel
 buricul
+buricul-apei
 buriculvinerei
 buridan
 buridava
@@ -8527,7 +8566,6 @@ burtan
 burtă
 burtă-verde
 burtă-verzime
-burtă‑verde
 burtăverde
 burtăverzime
 burtea
@@ -8589,7 +8627,8 @@ bustuchin
 busuioacă
 busuioc
 busuioc roș
-busuioc sălbatic
+busuioc-roșu
+busuioc-sălbatic
 Busuioceanu
 busuiocul
 busuiocul cerbilor
