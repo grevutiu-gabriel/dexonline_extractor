@@ -152,6 +152,7 @@ Racovițești
 racovski
 racu
 racul-de-mine
+racul-pământului
 racursi
 racursiu
 rad
@@ -193,7 +194,7 @@ radiație
 radiațiune
 radic
 radical
-radical‑socialist
+radical-socialist
 radicalism
 radicalist
 radicalitate
@@ -639,6 +640,7 @@ raibă
 Raicevich
 Raicu
 raid
+raid-anchetă
 rấie
 Raiffeisen
 raiformă
@@ -1356,10 +1358,10 @@ rădacinos
 rădan
 rădașcă
 rădăcina
-rădăcina‑ciumei
+rădăcina-ciumei
 rădăcină
-rădăcină‑de‑lingoare
-rădăcină‑dulce
+rădăcină-de-lingoare
+rădăcină-dulce
 rădăcinădepiperalb
 rădăcinăneagră
 rădăciniș
@@ -1473,7 +1475,7 @@ răjghinat
 răjudeca
 rălița
 rămas
-rămas‑bun
+rămas-bun
 rămaș
 rămăsoi
 rămășag
@@ -1919,6 +1921,7 @@ răsufla
 răsuflare
 răsuflat
 răsuflătoare
+răsuflătoarea-pământului
 răsuflător
 răsuflătură
 răsuflet
@@ -1963,7 +1966,7 @@ rășfet
 rășinar
 rășinari
 rășină
-rășină‑de‑pământ
+rășină-de-pământ
 rășinărie
 rășinoasă
 rășinoase
@@ -2048,6 +2051,7 @@ rățușcă
 rățușoară
 rățuță
 rău
+rău-platnic
 Răucești
 răufăcător
 răufăptaș
@@ -2135,7 +2139,7 @@ răzbit
 răzbitor
 război
 Război Mondial
-război‑fulger
+război-fulger
 războieni
 războiesc
 războinic
@@ -2314,8 +2318,8 @@ râhnaci
 râhnă
 râhni
 râia
-râia‑broaștei
-râia‑munților
+râia-broaștei
+râia-munților
 râiat
 râie
 râioasa
@@ -2411,8 +2415,9 @@ rândunea
 rândunel
 rândunelă
 rândunic
+rândunica-Domnului
 rândunică
-rândunică‑de‑mare
+rândunică-de-mare
 rândunicii
 rândunicoi
 rândunioc
@@ -2477,7 +2482,7 @@ râset
 râsoaică
 râstic
 râsui
-râsul‑pădurii
+râsul-pădurii
 râșca
 râșcănean
 râșcăneancă
@@ -2555,8 +2560,6 @@ re-
 Rea
 rea-credință
 rea-voință
-rea‑credință
-rea‑voință
 reabilita
 reabilitare
 reabilitat
@@ -2637,7 +2640,6 @@ readunare
 readunat
 readus
 ready-made
-ready‑made
 reaerisi
 reaerisire
 reaerisit
@@ -3355,7 +3357,7 @@ redactilografiat
 redactilografiere
 redactoare
 redactor
-redactor‑șef
+redactor-șef
 redactoriță
 redacție
 redacțional
@@ -3808,10 +3810,10 @@ regim
 regiment
 regimentar
 regina
-regina‑nopții
-regina‑peștilor
+regina-nopții
+regina-peştelui
+regina-peștilor
 regină
-reginei
 reginică
 regiomontanus
 regional
@@ -4638,7 +4640,7 @@ repărțit
 repăși
 repciuc
 repede
-repede$‑$repejor
+repede-repejor
 repedea
 repega
 repegior
@@ -5049,6 +5051,7 @@ restituibil
 restituire
 restituit
 restitutio
+restitutio in integrum
 restitutoare
 restitutor
 restitutoriu
@@ -6460,8 +6463,9 @@ roanță
 roao
 roaoă
 roast
+roast beef
 Roata
-Roata‑Stelelor
+Roata-Stelelor
 roată
 roate
 roauă
@@ -6499,7 +6503,6 @@ robiciune
 robie
 Robig
 Robigus
-Robilor
 robime
 robin
 robinet
@@ -6567,14 +6570,13 @@ rochie
 rochință
 rochioară
 rochița
-rochița‑rândunicii
+rochița-rândunicii
 rochiță
 roci
 rociu
 rock
 rock-and-roll
-rock‑and‑roll
-rock’n‑roll
+rock’n-roll
 rocker
 rockfeller
 rockford
@@ -6680,6 +6682,7 @@ rodozahăr
 rodrigo
 rodrigues
 rodriguez
+rodul-pământului
 roe
 roebling
 Roegen
@@ -6844,7 +6847,7 @@ romanizare
 romanizat
 romanizator
 romano
-romano‑catolic
+romano-catolic
 romanocatolic
 romanocatolicism
 romanofon
@@ -6914,7 +6917,7 @@ românizator
 românizm
 româno
 româno-bulgar
-româno‑francez
+româno-francez
 românofil
 românofilă
 românofilie
@@ -6965,7 +6968,6 @@ rondare
 rondă
 ronde
 ronde-bosse
-ronde‑bosse
 rondea
 rondeau
 rondel
@@ -7293,13 +7295,12 @@ rototranslație
 rototrol
 rotoțel
 rotoțele
-rotoțele‑albe
+rotoțele-albe
 rotovei
 rotring
 rotrou
 rotta
 rotte
-rotten
 rotterdam
 rottweiler
 rotula
@@ -7308,7 +7309,7 @@ rotulian
 rotulus
 rotund
 rotunda
-rotunda‑puturoasă
+rotunda-puturoasă
 rotundă
 rotundifolia
 rotundifolium
@@ -7339,6 +7340,7 @@ rotunzime
 rotunzire
 rotunzit
 roua
+roua-cerului
 rouault
 rouă
 roubaix
@@ -7403,7 +7405,7 @@ royce
 roylon
 roz
 roza
-roza‑vânturilor
+roza-vânturilor
 rozace
 rozacee
 rozaceu
@@ -7596,7 +7598,8 @@ rufșoară
 rufuliță
 rufușoară
 rug
-rug‑domnesc
+rug-de-munte
+rug-domnesc
 ruga
 rugaci
 rugar
@@ -7618,7 +7621,7 @@ Rugetu
 rugi
 ruginare
 rugină
-rugină‑de‑baltă
+rugină-de-baltă
 Ruginești
 rugini
 ruginire
@@ -7635,7 +7638,7 @@ rugozimetru
 rugozitate
 ruguci
 rugul
-rugul‑vacii
+rugul-vacii
 ruguleț
 ruguma
 rugumașcă
@@ -7665,7 +7668,7 @@ Ruisdael
 Ruiz
 ruj
 ruja
-ruja‑soarelui
+ruja-soarelui
 rujalină
 rujan
 rujar
@@ -7673,8 +7676,8 @@ rujare
 rujat
 rujă
 rujă vânătă de toamnă
-rujă‑de‑toamnă
-rujă‑galbenă
+rujă-de-toamnă
+rujă-galbenă
 rujăvânătă
 rujdă
 rujdi
@@ -7887,7 +7890,7 @@ Ruscova
 ruscus
 ruscuța
 ruscuță
-ruscuță‑de‑primăvară
+ruscuță-de-primăvară
 Ruse
 rusească
 rusesc
@@ -7984,7 +7987,7 @@ rușină
 rușinător
 rușine
 rușinea
-rușinea‑fetelor
+rușinea-fetelor
 rușineală
 rușinoasă
 rușinos
@@ -8000,10 +8003,11 @@ rușuliță
 rușune
 rut
 ruta
-ruta‑sălbatică
+ruta-sălbatică
 rutacee
 rutaceu
 rută
+rută-sălbatică
 rutea
 rutean
 ruteană
@@ -8034,6 +8038,7 @@ rutină
 rutinier
 rutinism
 rutișor
+rutişor-galben
 Ruttmann
 rutuli
 ruță
