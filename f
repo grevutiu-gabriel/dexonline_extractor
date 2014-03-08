@@ -301,7 +301,6 @@ Falkland
 falkșiaftalion
 fall
 fall-out
-fall‑out
 Falla
 Fallaci
 Fallada
@@ -722,7 +721,6 @@ fasonel
 Fassbinder
 fast
 fast-food
-fast-foof
 faste
 fastidios
 fastidium
@@ -1124,8 +1122,6 @@ fășuță
 făt
 Făt-Frumos
 făt-logofăt
-Făt‑Frumos
-făt‑logofăt
 făta
 fătare
 fătat
@@ -2167,7 +2163,6 @@ Fianarantsoa
 fianit
 fiară
 fiare
-fiarelor
 fiareveco
 fiartă
 fiască
@@ -2335,7 +2330,9 @@ Fielding
 Fields
 Fieni
 fier
+fier-beton
 fierar
+fierar-betonist
 fieratic
 fierărie
 fierărit
@@ -2360,6 +2357,7 @@ fierbințeală
 Fierbinți
 Fierbinți-Târg
 fiere
+fierea-pământului
 fieret
 fieri
 fierișor
@@ -2368,7 +2366,6 @@ fieros
 fieroșie
 fierotină
 fiert
-fierte
 fiertoare
 fiertură
 fierturică
@@ -2430,7 +2427,7 @@ figzonomie
 fii
 fiiasco
 fiică
-fiică‑mea
+fiică-mea
 fiiculiță
 fiicuță
 fiind
@@ -2808,9 +2805,7 @@ finlandeză
 finlandiza
 finlandizare
 finnbogadottir
-fino
 fino-ugric
-fino‑ugric
 finougristică
 finsen
 finsteraarhorn
@@ -3130,7 +3125,7 @@ fiunt
 fiut
 fiuț
 five
-five oclock
+five o´clock
 fix
 fixa
 fixabil
@@ -3298,6 +3293,7 @@ flaimuc
 flajeolet
 flajolet
 Flajshansova
+flakes
 flamand
 flamandă
 flamare
@@ -3652,18 +3648,16 @@ floace
 floare
 floare domnească
 floare frumoasă
-floare‑de‑colț
-floare‑de‑leac
-floare‑domnească
+floare-de-colț
+floare-de-leac
+floare-domnească
 Floarea
+floarea-brumei
+floarea-doamnei
+floarea-Paștelui
+floarea-Paștilor
 floarea-reginei
 floarea-soarelui
-floarea‑brumei
-floarea‑doamnei
-floarea‑Paștelui
-floarea‑Paștilor
-floarea‑reginei
-floarea‑soarelui
 floarță
 floașcă
 flobafenă
@@ -3740,7 +3734,7 @@ floretist
 floretistă
 Florey
 flori
-flori‑de‑paie
+flori-de-paie
 florialbe
 Florian
 Florianopolis
@@ -3812,7 +3806,6 @@ flou
 Flourens
 flow
 flow-chart
-flow‑chart
 flox
 Floyd
 flu
@@ -3857,7 +3850,6 @@ fluierat
 fluieră
 fluieră-vânt
 fluieră-vînt
-fluieră‑vânt
 fluierărie
 fluierătoare
 fluierător
@@ -3921,13 +3913,13 @@ fluturaș
 fluturat
 fluturatec
 fluturatic
-flutură‑vânt
+flutură-vânt
 fluturător
 fluture
-fluture‑alb
-fluture‑de‑mătase
-fluture‑de‑varză
-fluture‑roșu
+fluture-alb
+fluture-de-mătase
+fluture-de-varză
+fluture-roșu
 fluturel
 fluturește
 fluturos
@@ -3960,8 +3952,8 @@ foache
 foacle
 foaie
 foaie´n fir
+foaie-grasă
 foaie-în-fir
-foaie‑grasă
 foaienfir
 foaier
 foaită
@@ -4867,7 +4859,7 @@ fotolinotip
 fotolitografic
 fotolitografie
 fotoliu
-fotoliu‑pat
+fotoliu-pat
 fotoliză
 fotoluminescent
 fotoluminescență
@@ -5049,10 +5041,10 @@ fracționist
 fracțiune
 Fraenkel
 frag
-frag‑de‑câmp
+frag-de-câmp
 fragaria
 fragă
-fragă‑tătărească
+fragă-tătărească
 fraged
 fraget
 fragil
@@ -5457,7 +5449,6 @@ frenator
 frenație
 french
 french-cancan
-french‑cancan
 Freneau
 frenetic
 frenetiza
@@ -5585,7 +5576,6 @@ frige
 frige-câine
 frige-cîne
 frige-linte
-frige‑linte
 frigecâine
 frigecîne
 frigelinte
@@ -5630,7 +5620,6 @@ fripon
 fript
 fripta
 friptană
-fripte
 friptoare
 friptură
 fripturică
@@ -5812,7 +5801,7 @@ Frunți
 frunțiș
 frunzar
 frunză
-frunză‑de‑potcă
+frunză-de-potcă
 frunzăreală
 frunzărel
 frunzări
@@ -5877,8 +5866,8 @@ ftîzic
 ftong
 ftora
 ftori
-ftori‑logofăt
-ftori‑stolnic
+ftori-logofăt
+ftori-stolnic
 ftorilogofăt
 ftoristolnic
 fu
@@ -6331,7 +6320,6 @@ furnicăleu
 furnicătură
 furnicei
 furnicel
-furnicilor
 furnicos
 furnigă
 furnir
