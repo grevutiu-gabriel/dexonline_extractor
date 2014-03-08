@@ -5,6 +5,7 @@ V1
 V2
 va
 vac
+vaca-Domnului
 vacant
 vacantabil
 vacanță
@@ -15,7 +16,6 @@ vacație
 vacațiune
 vacă
 vacă-de-mare
-vacă‑de‑mare
 vaccaria
 vaccin
 vaccina
@@ -107,9 +107,6 @@ vagon
 vagon-atelier
 vagon-cisternă
 vagon-restaurant
-vagon‑atelier
-vagon‑cisternă
-vagon‑restaurant
 vagonabil
 vagonet
 vagonetaj
@@ -370,10 +367,10 @@ vare
 varec
 vareg
 vareți
+varga-ciobanului
 Vargas
 vargă
 vargă-de-aur
-vargă‑de‑aur
 vargheno
 Varhely
 vari
@@ -581,7 +578,6 @@ văcălaș
 văcăli
 văcălie
 văcălie-de-brad
-văcălie‑de‑brad
 văcălire
 văcălit
 văcăluială
@@ -725,7 +721,7 @@ vălțuitoare
 vălțuitor
 vălug
 vălui
-vălul‑miresei
+vălul-miresei
 vălura
 vălurat
 vălurel
@@ -1048,8 +1044,6 @@ vânturatic
 vânturație
 vântură-lume
 vântură-țară
-vântură‑lume
-vântură‑țară
 vânturătoare
 vânturător
 vânturătură
@@ -1310,10 +1304,10 @@ vejă
 vejie
 vel
 vel-
+vel-armaș
 vel-ceauș
-vel‑armaș
-vel‑logofăt
-vel‑spătar
+vel-logofăt
+vel-spătar
 velamen
 velar
 velară
@@ -1571,8 +1565,9 @@ Vercors
 verdaică
 verdare
 verde
+verde-de-Paris
 verdeața
-verdeața‑zidurilor
+verdeața-zidurilor
 verdeață
 verder
 verdeș
@@ -1842,7 +1837,6 @@ verzal
 verzală
 verzăciune
 verzătură
-verzei
 verzel
 verzi
 verzin
@@ -1888,8 +1882,8 @@ Vesprim
 Vespucci
 Vespuccio
 vest
-vest‑european
-vest‑german
+vest-european
+vest-german
 vesta
 vestală
 vestalii
@@ -2088,7 +2082,6 @@ vicepreședinție
 viceprezident
 viceprim
 viceprim-ministru
-viceprim‑ministru
 viceprimar
 viceregat
 vicerege
@@ -2336,7 +2329,6 @@ vigurozitate
 vihor
 Vihorlat
 vihuela
-viilor
 Viișoara
 viișoară
 viitoare
@@ -2439,6 +2431,7 @@ vineale
 vinecior
 vinegretă
 vinerea
+Vinerea Mare
 vineri
 vineriță
 vinetă
@@ -2489,8 +2482,8 @@ viniță
 viniție
 viniu
 vino
+vino-ncoa
 vino-ncoace
-vino‑ncoace
 vinocolorimetru
 vinograd
 vinoncoa
@@ -2524,7 +2517,7 @@ vinuleț
 vinuț
 vinzare
 vioară
-vioară‑roșie
+vioară-roșie
 viodă
 vioi
 vioiciune
@@ -2542,7 +2535,7 @@ violator
 violație
 violațiune
 violă
-violă‑de‑noapte
+violă-de-noapte
 viole
 violent
 violenta
@@ -3430,7 +3423,7 @@ volsc
 Volscens
 volsci
 volt
-VOLT-AMPER
+volt-amper
 volta
 voltaic
 Voltaire
@@ -3531,7 +3524,7 @@ voracitate
 vorbar
 vorbareț
 vorbă
-vorbă‑lungă
+vorbă-lungă
 vorbăraie
 vorbăreață
 vorbăreț
@@ -3617,7 +3610,6 @@ vozglașenie
 vozî
 voznesenie
 vrabie
-vrabiei
 vrac
 vrace
 vracevanie
@@ -3649,7 +3641,6 @@ vrav
 vrăbete
 vrăbeț
 vrăbier
-vrăbiilor
 vrăbioară
 vrăbioi
 vrăbiuță
@@ -3775,6 +3766,8 @@ vrut
 vrută
 vsd
 vtori
+vtori-logofăt
+vtori-stolnic
 vu
 Vucașin
 vudu
@@ -3838,14 +3831,13 @@ vulpan
 vulpăresc
 vulpărie
 vulpe
-vulpe‑de‑mare
+vulpe-de-mare
 vulpenesc
 vulpenie
 vulpes
 vulpesc
 vulpește
 vulpi
-vulpii
 vulpișoară
 vulpiță
 vulpoaică
