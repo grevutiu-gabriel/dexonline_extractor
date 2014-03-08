@@ -357,6 +357,7 @@ economicesc
 economicește
 economicitate
 economico
+economico-financiar
 economicos
 economie
 economisi
@@ -1937,6 +1938,7 @@ empetrum
 empiem
 empiocel
 empire
+Empire State Building
 empireu
 empiric
 empirie
@@ -1982,9 +1984,10 @@ emusare
 emusat
 Emyrne
 en
+en detail
+en titre
 en-avant
 en-lai
-en‑avant
 Enache
 Enacovici
 enal
@@ -3662,7 +3665,8 @@ Essling
 Esslingen
 est
 est-african
-est‑european
+est-european
+est-german
 establishment
 estacadă
 Estacado
@@ -3941,7 +3945,7 @@ etete
 etezian
 Ethiopia
 ethno
-ethno‑rock
+ethno-rock
 ethos
 etiaj
 etiam
@@ -4669,18 +4673,15 @@ Ewing
 ex
 ex abrupto
 ex aequo
+ex cathedra
 ex-
+ex-campioană
 ex-campion
 ex-libris
 ex-ministru
+ex-premier
 ex-professo
 ex-voto
-ex‑campioană
-ex‑campion
-ex‑libris
-ex‑ministru
-ex‑premier
-ex‑voto
 exa
 exacerba
 exacerbare
@@ -5000,6 +5001,7 @@ existențialism
 existențialist
 existențialitate
 exit
+exit-poll
 exiton
 exitus
 exînscrie
@@ -5429,7 +5431,6 @@ extra
 extra-
 extra-dry
 extra-muros
-extra‑dry
 extraatmosferic
 extraaxilar
 extrabazinal
