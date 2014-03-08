@@ -1,4 +1,6 @@
 n
+n-aude-na-vede
+n-aude-na-vede-na-greul-pământului
 N,A.T.O.
 N.A.S.A.
 N.B.
@@ -216,6 +218,8 @@ nalanghită
 nalbant
 nalbar
 nalbă
+nalbă-de-grădină
+nalbă-mare
 Nalcik
 Nalkowska
 nalt
@@ -267,7 +271,7 @@ nanghină
 nanghinet
 nangută
 nani
-nani‑nani
+nani-nani
 nanie
 Naniescu
 nanism
@@ -592,8 +596,6 @@ național-liberal
 național-socialism
 național-socialist
 național-țărănesc
-național‑socialism
-național‑socialist
 naționalicesc
 naționalicește
 naționalism
@@ -1527,7 +1529,7 @@ neaerisit
 neafectat
 neafiliat
 neagă
-neagă‑rea
+neagă-rea
 neagărea
 Neagh
 neaglutinat
@@ -1536,7 +1538,7 @@ neagoeanus
 neagoi
 neagonisit
 neagră
-neagră‑moale
+neagră-moale
 neagresiune
 neagresiv
 neagresivitate
@@ -1686,6 +1688,8 @@ nează
 nebaftos
 nebăga
 nebăgare
+nebăgare de seamă
+nebăgare în seamă
 nebăgat
 nebăgate
 nebăgător
@@ -1799,7 +1803,6 @@ necesitare
 necesitat
 necesitate
 necesitos
-necessaire
 necessitas
 necestiv
 nechao
@@ -1924,7 +1927,6 @@ neconsolidat
 neconstant
 neconstanță
 neconstituțional
-neconstituționalitate
 neconsumat
 neconștient
 neconștiincios
@@ -2464,7 +2466,7 @@ neghidat
 neghina
 neghinare
 neghină
-neghină‑sălbatică
+neghină-sălbatică
 neghinea
 neghiniță
 neghinos
@@ -2533,7 +2535,6 @@ Negrași
 negratic
 negrăit
 negrăitor
-negre
 negrea
 negreală
 Negrean
@@ -2590,8 +2591,9 @@ negros
 negroștiorit
 negrotei
 negru
-negru-vodă
-negru‑moale
+negru-de-fum
+negru-moale
+Negru-Vodă
 negrui
 negruș
 negrușcă
@@ -3125,7 +3127,7 @@ nemție
 nemțime
 nemțire
 nemțișor
-nemțișori de câmp
+nemțișor-de-câmp
 nemțișori de cîmp
 nemțit
 nemțoaică
@@ -3703,7 +3705,7 @@ nepurtare
 nepurtat
 nepurtător
 nepus
-nepusă
+nepusă masă
 nepusti
 nepustitu
 neputere
@@ -4585,10 +4587,9 @@ nevskogo
 nevulnerabil
 new
 new age
+New York
 new-look
 new-orleans
-new-york
-new‑look
 Newark
 Newcomb
 Newcombe
@@ -4848,7 +4849,6 @@ nigerian
 Nigg
 Niggli
 night-club
-night‑club
 nigra
 nigranilină
 nigricans
@@ -5153,7 +5153,6 @@ niștotă
 nit
 nitam
 nitam-nisam
-nitam‑nisam
 nitamnisam
 nită
 Niteroi
@@ -5295,6 +5294,7 @@ Nkrumah
 nkvd
 nmulțit
 no
+no-mans-land
 noa
 noadă
 noaha
@@ -5526,11 +5526,13 @@ nomotet
 nomotetic
 nomotetis
 non
+non-a
+non-eu
 non-possumus
+non-profit
 non-sens
 non-stop
 non-valoare
-non‑profit
 nona
 Nonacria
 Nonacriana
@@ -5623,8 +5625,10 @@ norcă
 nord
 nord-african
 nord-american
+nord-americancă
 nord-apusean
 nord-coreean
+nord-coreeancă
 nord-dunărean
 nord-est
 nord-estic
@@ -5635,16 +5639,6 @@ nord-vest
 nord-vestic
 nord-vietnamez
 nord-westfalia
-nord‑african
-nord‑american
-nord‑americancă
-nord‑coreean
-nord‑dunărean
-nord‑est
-nord‑estic
-nord‑vest
-nord‑vestic
-nord‑vietnamez
 Nordenskiold
 Nordenskjold
 Nordhausen
@@ -5819,8 +5813,7 @@ Noșlac
 noștri
 not
 nota
-nota-bene
-nota‑bene
+nota bene
 notabil
 notabilitate
 notalgie
@@ -5890,17 +5883,17 @@ noțârlan
 noțional
 noțiune
 nou
-nou‑ales
-nou‑născut
-nou‑nouț
-nou‑venit
+nou-ales
+nou-născut
+nou-nouț
+nou-venit
 Noua
 nouacă
 Nouadhibou
 Nouakchott
 nouar
 nouă
-nouă‑ochi
+nouă-ochi
 nouălea
 nouăsprece
 nouăsprecelea
@@ -6009,8 +6002,8 @@ np
 ntregul
 ntur
 nu
+nu știu ce
 nu-mă-uita
-nu‑mă‑uita
 nuanța
 nuanțare
 nuanțat
@@ -6023,13 +6016,15 @@ nubian
 nubil
 nubila
 nubilitate
-nublitate
 nubuc
 nuc
 nucar
 nucă
-nucă‑de‑stejar
-nucă‑galică
+nucă-americană
+nucă-de-cocos
+nucă-de-stejar
+nucă-galică
+nucă-vomică
 nucărie
 nucăriște
 nucăt
