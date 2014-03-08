@@ -1,19 +1,19 @@
 l
 L-tectonit
-l’œil
 la
 la olaltă
+La Tene
 la unalta
 lä´ndler
-la‑la‑la
+la-la-la
 laage
 laagen
 laaland
 lab
-laba
-laba‑gâștei
-laba‑mâței
-laba‑ursului‑roșie
+laba-gâștei
+laba-mâței
+laba-ursului
+laba-ursului-roșie
 labadie
 labagioaică
 labagiu
@@ -21,7 +21,7 @@ laban
 labarnas
 labarum
 labă
-labă‑de‑iepure
+labă-de-iepure
 labdacidae
 labdacizi
 labdacus
@@ -37,7 +37,7 @@ labferment
 labiacee
 labial
 labială
-labialialitate
+labialitate
 labializa
 labializare
 labializat
@@ -169,8 +169,7 @@ lacră
 lacrămă
 lacretelle
 lacrima
-lacrima-christi
-lacrima‑Christi
+lacrima-Christi
 lacrimae
 lacrimal
 lacrimariu
@@ -193,7 +192,6 @@ lactar
 lactariu
 lactarius
 lactat
-lactate
 lactație
 lactațiune
 lactază
@@ -207,8 +205,8 @@ lactic
 lacticemie
 lactifer
 lacto
-lacto‑vegetarian
-lacto‑vegetarianism
+lacto-vegetarian
+lacto-vegetarianism
 lactobacil
 lactobar
 lactobioză
@@ -635,7 +633,6 @@ lanifer
 Lanin
 lanist
 lanital
-Lanka
 Lankester
 Lanner
 Lannes
@@ -760,11 +757,10 @@ lapsus
 laptagioaică
 laptagiu
 lapte
-lapte‑de‑pasăre
-laptele
-laptele‑câinelui
-laptele‑stâncii
-Laptelui
+lapte-de-pasăre
+laptele-câinelui
+laptele-cucului
+laptele-stâncii
 Laptev
 laptop
 lapți
@@ -1067,6 +1063,7 @@ Laurencin
 Laurens
 Laurent
 laurentia
+Laurentiis
 laurențian
 Laurențiu
 Laurenziana
@@ -1123,7 +1120,6 @@ Law
 Lawes
 lawn
 lawn-tennis
-lawn‑tennis
 lawntennis
 Lawrence
 lawrenciu
@@ -1138,7 +1134,7 @@ laxist
 laxitate
 laxmanni
 Laxness
-lay‑out
+lay-out
 Laybach
 Laye
 layout
@@ -1171,7 +1167,6 @@ lazzi
 Lazzini
 lă
 lă-mă-mamă
-lă‑mă‑mamă
 lăbar
 lăbădui
 lăbăduire
@@ -1404,6 +1399,8 @@ lărmuitor
 lăsa
 lăsare
 lăsat
+Lăsata-secului
+Lăsatul-secului
 lăsăciune
 lăsătoare
 lăsător
@@ -1532,8 +1529,7 @@ lăzui
 lăzuire
 lăzuit
 lăzurean
-lâna
-lâna‑broaștei
+lâna-broaștei
 lânar
 lână
 lânărică
@@ -1980,8 +1976,8 @@ lemetit
 leming
 Lemmon
 lemn
-lemn‑câinesc
-lemn‑dulce
+lemn-câinesc
+lemn-dulce
 lemna
 lemnacee
 lemnar
@@ -2000,6 +1996,7 @@ lemnișor
 lemniță
 lemniu
 lemnos
+lemnul-Domnului
 lemnuleț
 lemnuș
 lemnușcă
@@ -2251,7 +2248,7 @@ lepuire
 lepuit
 lepus
 ler
-Ler‑Împărat
+Ler-împărat
 Leray
 leră
 Lerești
@@ -2385,8 +2382,8 @@ Lețcani
 lețui
 leu
 leu de mare
-leu‑de‑mare
-leu‑paraleu
+leu-de-mare
+leu-paraleu
 leuaș
 leuc
 Leucade
@@ -2491,8 +2488,7 @@ Leucuția
 leudemare
 Leukippos
 leuktra
-leul
-leul‑furnicilor
+leul-furnicilor
 leunapor
 Leunclavius
 leurdar
@@ -2616,8 +2612,8 @@ lexinomic
 Leyda
 Leydig
 Leyte
-lez‑conștiință
-lez‑națiune
+lez-conștiință
+lez-națiune
 leza
 Lezama
 lezard
@@ -2690,16 +2686,10 @@ liber
 liber-arbitru
 liber-cugetător
 liber-profesionist
+liber-profesionistă
 liber-schimb
 liber-schimbism
 liber-schimbist
-liber‑arbitru
-liber‑cugetător
-liber‑profesionist
-liber‑profesionistă
-liber‑schimb
-liber‑schimbism
-liber‑schimbist
 libera
 liberabil
 liberal
@@ -3063,7 +3053,7 @@ Likud
 lila
 Lilburne
 liliac
-liliac‑de‑munte
+liliac-de-munte
 liliacee
 liliaceu
 liliachiu
@@ -3106,12 +3096,15 @@ limănit
 limb
 limba
 limba câinelui
-limba‑apei
-limba‑oii
-limba‑peștelui
-limba‑soacrei
-limba‑șarpelui
-limba‑vrabiei
+limba-apei
+limba-boului
+limba-cucului
+limba-mielului
+limba-oii
+limba-peștelui
+limba-soacrei
+limba-șarpelui
+limba-vrabiei
 limbagiu
 limbaj
 limbar
@@ -3121,7 +3114,7 @@ limbariț
 limbariță
 limbat
 limbă
-limbă‑de‑mare
+limbă-de-mare
 limbătăți
 limbi
 limbic
@@ -3303,7 +3296,7 @@ linariță
 Linas
 linăriță
 linca
-linca‑linca
+linca-linca
 lincăi
 lincăire
 lincăvi
@@ -3361,8 +3354,8 @@ lingărit
 lingău
 lingăvi
 linge
+linge-blide
 linge-talere
-linge‑blide
 lingere
 lingerică
 lingerie
@@ -3384,8 +3377,7 @@ linguist
 linguistic
 linguistică
 lingulă
-lingura
-lingura‑zânelor
+lingura-zânelor
 linguramaiciipreceste
 lingurar
 linguraș
@@ -3397,8 +3389,7 @@ linguric
 lingurică
 lingurice
 linguristă
-lingurița
-lingurița‑zânei
+lingurița-zânei
 linguriță
 linguroi
 linguruș
@@ -3754,7 +3745,8 @@ literal
 literalitate
 literalmente
 literar
-literar‑artistic
+literar-artistic
+literar-muzical
 literare
 literaritate
 literariza
@@ -3884,7 +3876,7 @@ liță
 lițcaie
 Lițiu
 liu
-liu‑liu
+liu-liu
 liubăi
 liubem
 liubi
@@ -3934,8 +3926,8 @@ livid
 lividitate
 Livie
 living
+living-
 living-room
-living‑
 livingrum
 Livingstone
 Liviu
@@ -4088,7 +4080,6 @@ loch
 Lochner
 lock
 lock-out
-lock‑out
 Locke
 Lockheed
 Lockyer
@@ -4104,10 +4095,9 @@ locomotrice
 locomoție
 locomoțiune
 locotenent
+locotenent-colonel
 locotenent-comandor
-locotenent‑colonel
-locotenent‑comandor
-locotenent‑major
+locotenent-major
 locotenență
 locotiță
 locotractor
@@ -4345,8 +4335,7 @@ Londra
 Londrina
 long
 long-courrier
-long‑courrier
-long‑drink
+long-drink
 longa
 longanim
 longanimitate
@@ -4533,7 +4522,6 @@ Louw
 Louys
 love
 love-story
-love‑story
 lovea
 loveală
 Lovecraft
@@ -4598,7 +4586,7 @@ Luang
 Luangwa
 Luapula
 luare
-luare‑aminte
+luare-aminte
 luat
 luător
 luătură
@@ -4642,9 +4630,9 @@ Lucaye
 Lucca
 luceafăr
 Luceafărul
-Luceafărul‑Ciobanilor
-Luceafărul‑de‑Seară
-Luceafărul‑de‑Ziuă
+Luceafărul-Ciobanilor
+Luceafărul-de-Seară
+Luceafărul-de-Ziuă
 luceafărulporcesc
 luced
 luceflender
@@ -4836,6 +4824,7 @@ lumăra
 lumânare
 lumânărar
 lumânărărie
+lumânărica-pământului
 lumânărică
 lumânărie
 lumbagine
@@ -4977,7 +4966,6 @@ lunguț
 luni
 lunic
 lunie
-lunii
 lunik
 lunisolar
 luniță
@@ -5000,7 +4988,7 @@ lunulă
 lunură
 Luoyang
 lup
-lup‑de‑mare
+lup-de-mare
 lupac
 lupache
 lupan
@@ -5052,10 +5040,9 @@ luptă
 luptătoare
 luptător
 Lupu
-lupul
-lupul‑albinelor
-lupul‑bălții
-lupul‑vrăbiilor
+lupul-albinelor
+lupul-bălții
+lupul-vrăbiilor
 lupulină
 lupus
 lupușor
