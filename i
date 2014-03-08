@@ -166,29 +166,34 @@ iară
 iarăși
 iarba dintelui
 iarba fiarelor
+iarba-acului
+iarba-bivolului
+iarba-broaștei
+iarba-cănărașului
+iarba-câmpului
+iarba-ciutei
+iarba-datului-și-a-faptului
+iarba-fiarelor
 iarba-găii
+iarba-lui-Antonie
+iarba-osului
+iarba-șopârlelor
 iarba-zgăibii
-iarba‑broaștei
-iarba‑ciutei
-iarba‑fiarelor
-iarba‑găii
-iarba‑lui‑Antonie
-iarba‑șopârlelor
 iarbas
 iarbă
 iarbă dulce
 iarbă englezească
 iarbă grasă
 iarbă plutitoare
-iarbă‑albă
-iarbă‑creață
-iarbă‑de‑mare
-iarbă‑de‑Sudan
-iarbă‑deasă
-iarbă‑grâuleț
-iarbă‑mare
-iarbă‑neagră
-iarbă‑stelată
+iarbă-albă
+iarbă-creață
+iarbă-de-mare
+iarbă-de-Sudan
+iarbă-deasă
+iarbă-grâuleț
+iarbă-mare
+iarbă-neagră
+iarbă-stelată
 iarc
 Iarca
 iarcu
@@ -257,7 +262,7 @@ iaurgiu
 iaurt
 Iava
 iavaș
-iavaș‑iavaș
+iavaș-iavaș
 iavașa
 iavașă
 iavlenie
@@ -299,7 +304,7 @@ ibernant
 ibernare
 ibernație
 ibernațiune
-ibero
+ibero-american
 iberoromanic
 Ibert
 ibetext
@@ -362,6 +367,7 @@ Icaza
 icăluță
 icbm
 ice
+ice tea
 ice-tea
 icea
 iceberg
@@ -384,7 +390,7 @@ ichnologie
 ichor
 ici
 ici-ciohodar
-ici‑colo
+ici-colo
 iciaga
 ician
 iciceauș
@@ -750,7 +756,7 @@ iepurariță
 iepuraș
 iepurărie
 iepure
-iepure‑de‑mare
+iepure-de-mare
 iepurel
 iepurelui
 iepuresc
@@ -792,9 +798,9 @@ iergan
 iergălaș
 ierhă
 ieri
-ieri‑dimineață
-ieri‑noapte
-ieri‑seară
+ieri-dimineață
+ieri-noapte
+ieri-seară
 ierihon
 ieriță
 ierliu
@@ -957,6 +963,7 @@ ignoranță
 ignorare
 ignorat
 ignoratio
+ignoratio elenchi
 ignoti
 Igor
 igrasie
@@ -980,7 +987,7 @@ iguci
 igumen
 igurțeală
 iha
-iha‑ha
+iha-ha
 ihai
 Ihara
 ihi
@@ -1465,6 +1472,7 @@ imortaliza
 imortalizare
 imortalizat
 imortelă
+imortelă-galbenă
 imos
 imoșa
 impacient
@@ -1571,7 +1579,6 @@ impersonalizare
 impersonalizat
 impertinent
 impertinență
-impertubabilitate
 imperturbabil
 imperturbabilitate
 impesta
@@ -1842,20 +1849,20 @@ in
 in corpore
 in extenso
 in extremis
-in octavo
+in memoriam
+in nuce
 in quarto
+in spe
+in vitro
+in vivo
 in-
 in-cuarto
 in-cvarto
 in-folio
-in-g\alben
+in-galben
 in-octavo
 in-plano
 in-quarto
-in‑cvarto
-in‑folio
-in‑octavo
-in‑plano
 ina
 inabil
 inabilitate
@@ -2517,14 +2524,13 @@ indo
 indo-arian
 Indo-China
 indo-european
+indo-europeană
+indo-europenistică
 indo-europeu
 indo-gangetic
 indo-german
+indo-germanic
 indo-iranian
-indo‑european
-indo‑europeană
-indo‑germanic
-indo‑iranian
 Indochina
 indocil
 indocilitate
@@ -2652,8 +2658,8 @@ ineligibilitate
 ineluctabil
 ineluctabilitate
 ineluș
+ineluș-învârtecuș
 ineluș-învîrtecuș
-ineluș‑învârtecuș
 inemă
 inenarabil
 inept
@@ -3063,7 +3069,9 @@ iniencefal
 iniencefalie
 inigea
 inima
-inima‑scorpionulul
+inima-Domnului
+inima-pământului
+inima-scorpionului
 inimaginabil
 inimaginabilitate
 inimar
@@ -3094,7 +3102,7 @@ inipere
 inipir
 inipol
 inișor
-inișor‑de‑alior
+inișor-de-alior
 iniște
 initio
 initium
@@ -3354,6 +3362,7 @@ inspectat
 inspectiv
 inspectoare
 inspector
+inspector-șef
 inspectorat
 inspecție
 inspecțiune
@@ -4369,6 +4378,7 @@ invidie
 invidiere
 invidios
 invincibil
+Invincibila Armadă
 invincibilitate
 inviolabil
 inviolabilitate
@@ -5090,7 +5100,7 @@ Isauriană
 isav
 Isăcescu
 Isărescu
-isbn
+ISBN
 isca
 iscare
 iscariot
@@ -5619,7 +5629,7 @@ ițire
 ițit
 ițîi
 iu
-iu‑iu‑iu
+iu-iu-iu
 Iuan
 iuă
 iub
@@ -5960,12 +5970,12 @@ izî
 izînă
 izlaz
 izlă
-izma
-izma‑broaștei
+izma-broaștei
 Izmail
 izmamaiciipreciste
 izmană
 izmă
+izmă-creață
 izmănar
 izmeană
 izmene
