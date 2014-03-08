@@ -326,6 +326,7 @@ sagitat
 sagittalis
 sagittata
 Sagna
+sagna-calului
 sagnasiu
 sagnă
 sago
@@ -406,6 +407,7 @@ sainetă
 saingiu
 saint
 Saint Albans
+Saint-Bernar
 saint-bernard
 Saint-Beuve
 Saint-Germain
@@ -413,10 +415,7 @@ Saint-Jean
 Saint-Simon
 saint-simonian
 saint-simonism
-Saint‑Bernar
-saint‑simonian
-saint‑simonism
-saint‑simonist
+saint-simonist
 sainte
 Saintes
 saintlucian
@@ -425,6 +424,7 @@ Saintpaulia
 saip
 saipan
 sais
+sait
 saită
 saito
 saitoc
@@ -500,19 +500,21 @@ salarizat
 salas
 salat
 salata
-salata‑iepurelui
+salata-iepurelui
 salată
-salată‑creață
-salată‑de‑câmp
+salată de boeuf
+salată-creață
+salată-de-câmp
 salatieră
 salavat
 salazar
 sală
 salău
+salba-dracului
 salbandă
 salbă
-salbă‑moale
-salbă‑râioasă
+salbă-moale
+salbă-râioasă
 salbed
 salbie
 salcấm
@@ -533,6 +535,8 @@ Salcedo
 salcia
 salcicorn
 salcie
+salcie-căprească
+salcie-plângătoare
 saldanha
 saldat
 saldo
@@ -915,6 +919,7 @@ samuriu
 samus
 samvartaka
 san
+San Marino
 San-Bernard
 San-Domingo
 San-Francisco
@@ -1134,7 +1139,7 @@ sapan
 saparâș
 saparină
 sapă
-sapă‑foraj
+sapă-foraj
 sapelli
 sapeur
 Sapho
@@ -1331,10 +1336,8 @@ sardou
 sarduy
 sare
 sare-garduri
-sare‑garduri
 sarea
 sarea-pisicii
-sarea‑pisicii
 sarek
 sarf
 sargasă
@@ -1808,8 +1811,9 @@ săgar
 săgeac
 săgeacar
 săgeata
-săgeata‑apei
-săgeata‑lui‑Dumnezeu
+săgeata-apei
+săgeata-apelor
+săgeata-lui-Dumnezeu
 săgeată
 săget
 săgeta
@@ -2168,6 +2172,7 @@ săpunire
 săpunit
 săpuniță
 săpunos
+săpunul-calului
 săpușoară
 săpuță
 săra
@@ -2329,7 +2334,7 @@ sărulești
 sărune
 săruri
 sărut
-sărut‑mâna
+sărut-mâna
 săruta
 sărutare
 sărutat
@@ -2452,6 +2457,7 @@ sâlță
 sâm
 sâmăț
 Sâmbăta
+Sâmbăta Mare
 sâmbătar
 sâmbătaș
 sâmbătă
@@ -2525,20 +2531,20 @@ sâneț
 sânețar
 sânețaș
 sânge
-sânge‑de‑nouă‑frați
-sânge‑rece
+sânge-de-nouă-frați
+sânge-rece
 sângeac
 sângeacă
 sângeap
 sângeapă
 sângecli
-sângele‑voiniculul
+sângele-voinicului
 sângeoi
 sângeorgiu
 sângeorz
 sângepiu
 sânger
-sânger‑pătat
+sânger-pătat
 sângera
 sângerare
 sângerariță
@@ -2617,8 +2623,9 @@ sânzănioară
 sânzău
 sânzâiană
 sânzenie
-sânziana‑voinicească
+sânziana-voinicească
 sânziană
+sânziană-voinicească
 Sânziene
 sânzieni
 sâpți
@@ -2642,8 +2649,8 @@ sârbie
 sârbii-măgura
 sârbism
 sârbo
-sârbo‑croat
-sârbo‑croată
+sârbo-croat
+sârbo-croată
 sârboaică
 sârbocroat
 sârbocroată
@@ -2786,11 +2793,13 @@ scafoidită
 scafopod
 scafopodă
 scai
+scai-mărunt
+scai-vânăt
 scaiecios
 scaiete
 scaiețos
 scaiu
-scaiul
+scaiul-dracului
 scaivoinicesc
 scal
 scala
@@ -2897,8 +2906,9 @@ scapulectomie
 scapulo-umeral
 scapulum
 scara
-scara‑mâței
-scara‑pisicii
+scara-Domnului
+scara-mâței
+scara-pisicii
 scarabeide
 scarabeu
 scaramanghion
@@ -2912,7 +2922,7 @@ scarandizi
 scaraoschi
 scaraoțchi
 scară
-scară‑de‑pisică
+scară-de-pisică
 scardă
 scareu
 scariface
@@ -2961,7 +2971,8 @@ scaturigine
 scaturire
 scaun
 Scaunul
-Scaunul‑lui‑Dumnezeu
+scaunul-Domnului
+Scaunul-lui-Dumnezeu
 Scavinski
 scaz
 scazon
@@ -3205,6 +3216,7 @@ scânteind
 scânteioară
 scânteios
 scânteiță
+scânteiuţa-lupului
 scânteiuță
 scânteiuțe
 scânteuță
@@ -3302,7 +3314,7 @@ scârtuitor
 scârț
 scârța
 scârța-scârța
-scârța‑scârța
+scârța-scârța-pe-hârtie
 scârțac
 scârțai
 scârțai-scârțai
@@ -3530,7 +3542,7 @@ schimbabil
 schimbaci
 schimbală
 schimbare
-Schimbarea
+Schimbarea la Faţă
 schimbaș
 schimbat
 schimbăcios
@@ -3775,7 +3787,6 @@ scibal
 scibili
 science
 science-fiction
-science‑fiction
 scientia
 scientică
 scientific
@@ -4090,6 +4101,8 @@ scohaci
 scoibă
 scoicar
 scoică
+scoică-de-mărgăritar
+scoică-de-râu
 scoicărie
 scoicit
 scoiculiță
@@ -4274,12 +4287,12 @@ scorpenide
 scorpeniforme
 scorpia
 scorpie
-scorpie‑de‑mare
+scorpie-de-mare
 scorpioană
 scorpion
-scorpion‑de‑baltă
+scorpion-de-baltă
 scorpionid
-scorpionul
+scorpionul-de-cărţi
 scort
 scorteli
 scorțar
@@ -4323,10 +4336,11 @@ scorum
 scorumă
 scorumnic
 scoruș
+scoruş-de-munte
+scoruș-nemțesc
 scorușă
 scorușet
 scorușiu
-scorușnemțesc
 scorzonera
 scos
 scosătură
@@ -4536,7 +4550,7 @@ scripție
 scripușă
 scrire
 scris
-scris‑citit
+scris-citit
 scrisa
 scrisă
 scrisoare
@@ -4550,9 +4564,9 @@ scrivit
 scrivitură
 scroabă
 Scroafa
-Scroafa‑cu‑Purcei
+Scroafa-cu-Purcei
 scroafă
-scroafă‑de‑baltă
+scroafă-de-baltă
 scroambă
 scroambe
 scrob
@@ -4622,6 +4636,8 @@ scrufioară
 scrum
 scruma
 scrumbie
+scrumbie-albastră
+scrumbie-de-Dunăre
 scrumbioară
 scrumbiță
 scrumelniță
@@ -4900,7 +4916,6 @@ sdup
 se
 sea
 sea-line
-sea‑line
 seaborg
 seaborgiu
 sealbă
@@ -4918,6 +4933,8 @@ sebastian
 sebastocrator
 Sebes
 Sebeș
+sebeșan
+sebeșancă
 sebeșean
 sebeșeancă
 Sebino
@@ -4935,7 +4952,7 @@ secalinus
 secant
 secantă
 secară
-secară‑cornută
+secară-cornută
 secarăalbă
 Secarâmb
 secare
@@ -4984,8 +5001,8 @@ secerat
 seceră
 secerăciune
 secerătoare
-secerătoare‑legătoare
-secerătoare‑treierătoare
+secerătoare-legătoare
+secerătoare-treierătoare
 secerător
 secerătură
 secerățică
@@ -5363,7 +5380,6 @@ seleac
 seleaf
 seleam
 seleam-ceauș
-seleam‑ceauș
 seleamagasi
 seleamlâc
 select
@@ -5434,14 +5450,11 @@ seleucizi
 self
 self-control
 self-defence
+self-governement
 self-government
 self-made
 self-made-man
 self-service
-self‑control
-self‑governement
-self‑made‑man
-self‑service
 selfactor
 selfinductanță
 selfinducție
@@ -5505,7 +5518,6 @@ semănător
 semănătorism
 semănătorist
 semănătură
-semănăturilor
 semărie
 semânță
 sembe
@@ -6187,7 +6199,7 @@ sereno
 Seres
 seretos
 sergent
-sergent‑major
+sergent-major
 Sergescu
 sergheev
 serghi
@@ -6309,7 +6321,6 @@ sersam
 sert
 serta
 serta-ferta
-serta‑ferta
 sertao
 sertar
 sertăraș
@@ -6473,12 +6484,13 @@ sevraj
 Sevres
 sevretă
 sex
+sex-apeal
 sex-appeal
+sex-club
 sex-magazin
 sex-ratio
 sex-shop
 sex-simbol
-sex‑apeal
 sexa
 sexagenar
 sexagenară
@@ -6564,7 +6576,7 @@ sfară (veste)
 sfaret
 sfarghie
 Sfarmă
-Sfarmă‑Piatră
+Sfarmă-Piatră
 sfarnic
 sfaroc
 sfarog
@@ -6694,7 +6706,7 @@ sfârcui
 sfârcuire
 sfârcuit
 sfârcul
-sfârcul‑babei
+sfârcul-babei
 sfârcurat
 sfârcuș
 sfârlac
@@ -6987,7 +6999,8 @@ sfredelit
 sfredelitor
 sfredelitură
 sfredelițel
-sfredelul‑Rusaliilor
+sfredelul-lemnului
+sfredelul-Rusaliilor
 sfredelulmic
 sfredeluș
 sfredeluși
@@ -7130,21 +7143,20 @@ shoddy
 shofar
 shogun
 shogunat
-shoking
 shop
 shoping
 shopping
+shopping center
 shoram
 shoran
 shore
 short
 short-track
-short‑track
 shortening
 shorthorn
 shot
 show
-show‑business
+show-business
 showbiz
 showman
 showroom
@@ -7790,6 +7802,7 @@ simbolizație
 simbolizm
 simbologie
 simbololatrie
+simbont
 simbriaș
 simbriașă
 simbriat
@@ -8160,6 +8173,7 @@ sindrofie
 sindrom
 Sindu
 sine
+sine die
 sine-qua-non
 sinea
 sineală
@@ -8262,6 +8276,7 @@ singramă
 singspiel
 singular
 singulare
+singulare tantum
 singularia
 singularism
 singularitate
@@ -8270,7 +8285,7 @@ singularizare
 singularizat
 singulativ
 singur
-singur‑singurel
+singur-singurel
 singura
 singurare
 singuraș
@@ -8613,9 +8628,8 @@ Sisyph
 Sisyphus
 sit
 sit-in
-sit‑in
 sita
-sita‑zânelor
+sita-zânelor
 sital
 Sitalces
 sitar
@@ -8662,7 +8676,7 @@ situa
 situare
 situat
 situație
-situație‑limită
+situație-limită
 situațional
 situaționism
 situaționist
@@ -9021,7 +9035,6 @@ slovoc
 slovușoară
 slow
 slow-fox
-slow‑fox
 Slowacki
 sluceaetsea
 slugar
@@ -9464,7 +9477,6 @@ Smyth
 sn
 snack
 snack-bar
-snack‑bar
 Snafellsjokull
 snagă
 snagos
@@ -9524,10 +9536,9 @@ soacă
 soace
 soaclăr
 soacră
+soacră-mare
 soacră-mea
-soacră‑mare
-soacră‑mică
-soacrei
+soacră-mică
 soagă
 soage
 soaie
@@ -9538,15 +9549,12 @@ soamne
 soap
 soarbă
 soarbe-zeamă
-soarbe‑zeamă
 soarbezeamă
 soare
 soare-apune
 soare-răsare
 soare-scapătă
 soare-sec
-soare‑apune
-soare‑răsare
 soarea
 soarea-soarelui
 soareâncap
@@ -9623,8 +9631,6 @@ social-democrație
 social-șovinism
 social-șovinist
 social-uman
-social‑democrat
-social‑democratism
 sociale
 socialeconomic
 socialism
@@ -9740,8 +9746,8 @@ socrișor
 socrit
 socriță
 socru
-socru‑mare
-socru‑mic
+socru-mare
+socru-mic
 socruleț
 socruluță
 socușor
@@ -10171,7 +10177,6 @@ someșană
 someșean
 someșeana
 someșeancă
-something
 somieră
 somină
 somitate
@@ -10341,9 +10346,8 @@ soprovi
 sopun
 sor
 sor-cu-frate
-sor‑cu‑frate
 sora
-sora‑soarelui
+sora-soarelui
 sorab
 sorabist
 sorabistică
@@ -10354,8 +10358,8 @@ sorariu
 sorasamfira
 soraștină
 soră
+soră-mea
 soră-șefă
-soră‑mea
 sorb
 sorbancă
 sorbăcăi
@@ -10570,6 +10574,7 @@ Soulouque
 Soult
 Soulzon
 sound
+sound blaster
 Sounio
 Sounion
 sour
@@ -10655,11 +10660,11 @@ Spallanzani
 spalt
 span
 spanac
-spanac‑englezesc
+spanac-englezesc
 spanacalb
 spanacporcesc
 spanacul
-spanacul‑ciobanilor
+spanacul-ciobanilor
 spanar
 spanc
 spancă
@@ -10741,7 +10746,7 @@ spastic
 spastie
 spastolit
 spat
-spata‑draculul
+spata-dracului
 spatang
 spatarează
 spată
@@ -10969,6 +10974,7 @@ specios
 speciosa
 speciozitate
 spectacol
+spectacol-coupe
 spectacologic
 spectacologie
 spectacolografie
@@ -11243,7 +11249,7 @@ spilit
 spilitic
 spilitizare
 spin
-spin‑muscălesc
+spin-muscălesc
 spinacher
 spinacia
 spinal
@@ -11253,6 +11259,7 @@ spinalgie
 spinaloscop
 spinare
 spinarea
+spinarea-lupului
 spină
 spinăraie
 spinărar
@@ -11310,6 +11317,7 @@ spinui
 spinuire
 spinuit
 spinul
+spinul-cerbului
 spinuleț
 spinuli
 spinulifer
@@ -11797,7 +11805,7 @@ spumariță
 spumat
 spumatic
 spumă
-spumă‑de‑mare
+spumă-de-mare
 spumări
 spumărire
 spumărit
@@ -11885,6 +11893,7 @@ sr
 Sramițir
 Sredeț
 SRI
+Sri Lanka
 srilankez
 srl
 sruti
@@ -12052,8 +12061,7 @@ stampilare
 stampilat
 stampilă
 stan
-Stan-pățitul
-Stan‑Pățitul
+Stan-Pățitul
 stanat
 stană
 Stanca
@@ -12061,7 +12069,6 @@ stancă
 stanculiu
 stand
 stand-by
-stand‑by
 standard
 standardiza
 standardizare
@@ -12130,11 +12137,9 @@ stasofobie
 stat
 stat-major
 stat-majorist
-stat‑major
 statal
 statalitate
 statariu
-state
 Statele-unite
 stater
 stathuder
@@ -12185,10 +12190,8 @@ statornicitor
 statoscop
 Statu
 Statu-Palmă
+Statu-Palmă-Barbă-Cot
 statu-quo
-Statu‑Palmă
-Statu‑Palmă‑Barba‑Cot
-statu‑quo
 statua
 statuar
 statuară
@@ -12447,6 +12450,8 @@ stânjiniu
 stânușoară
 stânuță
 stârc
+stârc-cenuşiu
+stârc-de-noapte
 stârccenușiudenoapte
 stârccenușiumic
 stârci
@@ -12492,7 +12497,7 @@ stârvină
 stârvitor
 stârvos
 stea
-stea‑de‑mare
+stea-de-mare
 steablă
 steag
 steage
@@ -12521,6 +12526,8 @@ steatopigie
 steatoree
 steatoză
 Steaua
+Steaua Polară
+steaua-pământului
 steauă
 steavă
 steblă
@@ -12540,7 +12547,7 @@ steclit
 stecluit
 stecluță
 steel
-steeple‑chase
+steeple-chase
 steeplechase
 stefanian
 stefanit
@@ -13291,7 +13298,7 @@ stomp
 stone
 stones
 stop
-stop‑cadru
+stop-cadru
 stopa
 stopaj
 stopare
@@ -13367,11 +13374,10 @@ straieț
 straigiu
 strainic
 straistă
-straița
-straița‑popii
+straița-popii
 straiță
 straiul
-straiul‑broaștei
+straiul-broaștei
 straj
 strajameșter
 strajă
@@ -13736,7 +13742,7 @@ strâmbar
 strâmbare
 strâmbat
 strâmbă
-Strâmbă‑Lemne
+Strâmbă-Lemne
 strâmbăciune
 strâmbălemne
 strâmbănog
@@ -13950,7 +13956,6 @@ strica
 stricare
 stricat
 stricată
-strică
 stricăcios
 stricăciune
 stricătoare
@@ -14208,7 +14213,7 @@ strugurei
 strugurel
 strugurespinos
 strugureț
-strugurilor
+strugurii-ursului
 strugurispinoși
 struguriță
 struguriu
@@ -14306,7 +14311,6 @@ stuchi
 stucni
 stucomarmură
 stud-book
-stud‑book
 studelcă
 studeniță
 student
@@ -14378,7 +14382,6 @@ stupid
 stupiditate
 stupie
 stupilă
-stupilor
 stupinar
 stupinaș
 stupină
@@ -14389,6 +14392,7 @@ stupinuță
 stupire
 stupit
 stupitor
+stupitul-cucului
 stupitură
 stupizenie
 stupoare
@@ -14421,13 +14425,15 @@ Sturluson
 Sturul
 sturungiu
 sturz
+sturz-cântător
+sturz-de-iarnă
 sturză
 sturzel
 sturzior
 sturzișor
 sturzoaică
 sturzoaie
-sturzul
+sturzul-viilor
 sturzuleț
 Stuttgard
 Stuttgart
@@ -14677,6 +14683,7 @@ subletal
 subligacul
 sublim
 sublima
+Sublima Poartă
 sublimabil
 sublimare
 sublimat
@@ -15117,8 +15124,11 @@ sucursală
 sucusiune
 sud
 sud-african
+sud-africancă
 sud-american
+sud-americancă
 sud-coreean
+sud-coreeancă
 sud-dunărean
 sud-est
 sud-estic
@@ -15127,16 +15137,7 @@ sud-ovest
 sud-uest
 sud-vest
 sud-vestic
-sud‑african
-sud‑american
-sud‑americancă
-sud‑coreean
-sud‑dunărean
-sud‑est
-sud‑estic
-sud‑vest
-sud‑vestic
-sud‑vietnamez
+sud-vietnamez
 suda
 sudabil
 sudabilitate
@@ -15316,10 +15317,10 @@ sugător
 sugătorel
 sugătură
 suge
-suge‑bute
+suge-bute
 sugebute
 sugel
-sugel‑galben
+sugel-galben
 sugera
 sugerare
 sugerat
@@ -15580,7 +15581,6 @@ suloi
 sulpician
 sultan
 sultan-mezat
-sultan‑mezat
 sultana
 sultanat
 sultană
@@ -16666,15 +16666,12 @@ surzuire
 surzuită
 sus
 sus-amintit
+sus-citat
 sus-menționat
 sus-numit
 sus-pomenit
 sus-pus
-sus‑citat
-sus‑menționat
-sus‑numit
-sus‑pus
-sus‑zis
+sus-zis
 susafon
 susai
 susai-pădureț
