@@ -1,6 +1,5 @@
 q
 q-metru
-q‑metru
 qabis
 Qabus
 Qacentina
@@ -117,7 +116,6 @@ quiche
 quick
 quick-cola
 quick-kola
-quick‑kola
 quid
 quidam
 quidditate
