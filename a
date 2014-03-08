@@ -497,7 +497,7 @@ abzice
 abzicere
 abzis
 ac
-ac‑de‑mare
+ac-de-mare
 acacia
 acacie
 acadea
@@ -1392,7 +1392,8 @@ acufundare
 acufundat
 acufundos
 acuitate
-acul‑doamnei
+acul-doamnei
+acul-pământului
 aculalie
 aculeat
 aculeata
@@ -1536,8 +1537,6 @@ Ad-Din
 ad-hoc
 ad-interim
 Ad-Mediam
-ad‑hoc
-ad‑interim
 Ada
 Ada-Kale
 Ada-Kaleh
@@ -2003,6 +2002,7 @@ adorațiune
 adorbital
 adormi
 adormire
+Adormirea Maicii Domnului
 adormit
 adormita
 adormitor
@@ -2059,7 +2059,7 @@ aduce
 aduce aminte
 aducere
 aducere aminte
-aducere‑aminte
+aducere-aminte
 aduct
 aductor
 aducție
@@ -2598,9 +2598,9 @@ afrikaans
 afrikander
 afrikaner
 afro
-afro‑american
-afro‑americanistică
-afro‑asiatic
+afro-american
+afro-americanistică
+afro-asiatic
 afroamerican
 afroamericanistică
 Afrodita
@@ -2701,7 +2701,6 @@ agapă
 Agapia
 Agar
 agar-agar
-agar‑agar
 agarean
 agareană
 agareancă
@@ -2751,6 +2750,7 @@ agâmbare
 agâmbat
 Agârbiceanu
 agârlâc
+age
 ageag
 agealâc
 ageamiu
@@ -3365,7 +3365,6 @@ Al-Uqsur
 ala
 Ala Shan
 ala-bala
-ala‑bala
 alabala
 alabalâc
 Alabama
@@ -3503,9 +3502,10 @@ albanolog
 albanologie
 Albany
 albaspină
-albastră
 albastre
 albastru
+albastru-azuriu
+albastru-deschis
 albaștri
 albatros
 albă
@@ -3567,10 +3567,8 @@ albină
 albinărel
 albinărie
 albinărit
-albine
 albineală
 albinel
-albinelor
 albineț
 albini
 albinioară
@@ -3681,7 +3679,7 @@ alcalinitate
 alcaliniza
 alcalinizare
 alcalinizat
-alcalino‑pământos
+alcalino-pământos
 alcalinoterapie
 alcaliu
 alcaliza
@@ -5068,7 +5066,6 @@ amentiv
 amenție
 America
 american
-americană
 americancă
 americanism
 americanist
@@ -5428,7 +5425,7 @@ amonoliză
 amonte
 amontillado
 amor
-amor‑propriu
+amor-propriu
 amoral
 amoralism
 amoralist
@@ -5497,8 +5494,6 @@ ampenaj
 amper
 amper-oră
 amper-spiră
-amper‑oră
-amper‑spiră
 amperaj
 Ampere
 ampermetru
@@ -5638,10 +5633,10 @@ amythaon
 amythaonius
 Amzacea
 an
+an-lumină
 an-Nafis
 an-Nașira
-an‑lumină
-an‑vară
+an-vară
 ana
 Ana-Foca
 anabaptism
@@ -6228,7 +6223,7 @@ anemometrie
 anemometru
 anemomorfie
 anemonă
-anemonă‑de‑mare
+anemonă-de-mare
 anemone
 anemoscop
 anemospor
@@ -6490,14 +6485,13 @@ anglistă
 anglistică
 anglo
 anglo-
+anglo-american
 anglo-americanism
+anglo-francez
 anglo-normand
 anglo-normande
 anglo-saxon
 anglo-saxonă
-anglo‑american
-anglo‑francez
-anglo‑saxon
 anglofil
 anglofilie
 anglofob
@@ -7821,7 +7815,7 @@ anucat
 anuclear
 anucleat
 anuitate
-Anul
+Anul Nou
 anula
 anulabil
 anulabilitate
@@ -7963,8 +7957,9 @@ apaturii
 Apața
 apaus
 apă
-apă‑grea
-apă‑neagră
+apă-albă
+apă-grea
+apă-neagră
 apăra
 apăraie
 apărare
@@ -7987,14 +7982,12 @@ apăsător
 apătos
 apătoșa
 apătoșare
-ape
 apechema
 apectomie
 apeduc
 apeduct
 apeductier
 apehema
-apei
 apeirofobie
 apeiron
 apel
@@ -8015,7 +8008,6 @@ apelevii
 apella
 Apelle
 Apelles
-apelor
 apelpisi
 apelpisie
 apelpisire
@@ -8352,6 +8344,7 @@ apozițiune
 apparatus
 Appassionata
 appassionato
+appeal
 appears
 appel
 appellant
@@ -8788,8 +8781,13 @@ arborare
 arboraș
 arborat
 arbore
+arbore-de-cacao
+arbore-de-cafea
+arbore-de-cauciuc
+arbore-de-pâine
 arborea
 arborele
+arborele-vieții
 arboreralli
 arborescens
 arborescent
@@ -9119,7 +9117,7 @@ arginază
 arginină
 argint
 argint viu
-argint‑viu
+argint-viu
 arginta
 argintar
 argintare
@@ -9359,7 +9357,7 @@ Ariceștii Rahtivani
 Ariceștii Zeletin
 aricha
 arici
-arici‑de‑mare
+arici-de-mare
 aricioaică
 aricire
 aricit
@@ -10336,7 +10334,7 @@ asiriolog
 asiriologă
 asiriologie
 asiro
-asiro‑babilonian
+asiro-babilonian
 asista
 asistare
 asistat
@@ -10521,12 +10519,12 @@ astatizare
 astav
 astazie
 astă
-astă‑iarnă
-astă‑noapte
-astă‑primăvară
-astă‑seară
-astă‑toamnă
-astă‑vară
+astă-iarnă
+astă-noapte
+astă-primăvară
+astă-seară
+astă-toamnă
+astă-vară
 astăreală
 astări
 astătut
@@ -10764,8 +10762,8 @@ asyut
 asztalos
 aș
 așa
-așa‑numit
-așa‑zis
+așa-numit
+așa-zis
 așadar
 așanti
 așarit
@@ -11234,7 +11232,7 @@ atwood
 atys
 ațapoc
 ață
-ață‑de‑mare
+ață-de-mare
 ațăga
 ațâta
 ațâța
@@ -11494,8 +11492,8 @@ austriaca
 austriacum
 austrică
 austro
+austro-ungar
 Austro-Ungaria
-austro‑ungar
 austromarxism
 austromarxist
 austroneziană
@@ -11954,7 +11952,7 @@ automișcare
 automitralieră
 automixie
 automobil
-automobilcapcană
+automobil-capcană
 automobilism
 automobilist
 automobilistă
@@ -12581,8 +12579,8 @@ azerbaidjan
 azerbaidjană
 azevedo
 azi
-azi‑dimineață
-azi‑noapte
+azi-dimineață
+azi-noapte
 Azia
 azidă
 azigo
