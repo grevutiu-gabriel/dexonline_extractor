@@ -9,7 +9,6 @@ Wagner
 wagnerian
 wagnerism
 wagon-lit
-wagon‑lit
 Wagram
 wahabism
 wahhabism
@@ -21,7 +20,6 @@ waldhorn
 Wales
 walhalla
 walk-over
-walk‑over
 walkie
 walkie-talkie
 walkirie
@@ -45,17 +43,13 @@ warfarină
 warrant
 Warwick
 wash-board
-wash‑board
 Washington
 water
 water-balast
 water-closet
 water-polo
+water-proof
 water-ski
-water‑balast
-water‑closet
-water‑polo
-water‑proof
 waterbalast
 Waterloo
 waterpolo
@@ -110,7 +104,6 @@ whist
 whistle
 white
 white-spirit
-white‑spirit
 Wickenhauser
 Wiclef
 widia
@@ -172,6 +165,7 @@ won
 wood
 woodoo
 woofer
+woogie
 Woolich
 Worcester
 workshop
@@ -180,6 +174,7 @@ worte
 Worth
 wotan
 wow
+writer
 wronskian
 wulfenit
 Wulong
