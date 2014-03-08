@@ -18,10 +18,9 @@ Mably
 Mabuchi
 Mabuse
 mac
+mac-cornut
 mac-mac
 Mac-Mahon
-mac‑cornut
-mac‑mac
 maca
 macabău
 macabe
@@ -351,8 +350,7 @@ macrură
 macsălbatic
 macte
 mactra
-macul
-macul‑ciorii
+macul-ciorii
 macula
 maculare
 maculat
@@ -755,10 +753,10 @@ mahună
 mahut
 mahzar
 mai
+mai-mai
 mai-mare
+mai-marele
 mai-mult-ca-perfect
-mai‑mai
-mai‑marele
 maia
 Maiakovski
 maial
@@ -769,7 +767,7 @@ maibent
 Maica
 Maican
 maică
-maică‑mea
+maică-mea
 Maicu
 maidan
 maidanez
@@ -922,7 +920,6 @@ Makassar
 Makati
 make
 make-up
-make‑up
 Makeba
 Makeevka
 makemono
@@ -1193,8 +1190,7 @@ malversație
 malversațiune
 Malvinas
 Malzel
-mama
-mama‑pădurii
+Mama-Pădurii
 mamabil
 mamacă
 mamagaia
@@ -1206,9 +1202,9 @@ mamancă
 mamantă
 mamar
 mamă
-mamă‑mare
-mamă‑soacră
-mamă‑ta
+mamă-mare
+mamă-soacră
+mamă-ta
 mamba
 mambo
 mamectomie
@@ -1283,7 +1279,7 @@ Manasse
 Manasses
 Manaus
 mană
-mană‑de‑ape
+mană-de-ape
 manăf
 manc
 mancando
@@ -1486,7 +1482,7 @@ mangustă
 Manhattan
 Manheim
 mani
-mani‑mani
+mani-mani
 mania
 maniabil
 maniabilitate
@@ -1869,9 +1865,9 @@ mardostat
 marduk
 mare
 mare-cruce
-mare‑logofăt
-mare‑spătar
-mare‑vornic
+mare-logofăt
+mare-spătar
+mare-vornic
 Marea-Moartă
 Marechal
 marecuvânta
@@ -1883,7 +1879,7 @@ maregrafic
 maregramă
 mareic
 mareie
-marele
+Marele Alb
 marele-negru
 marematic
 maremă
@@ -2267,7 +2263,6 @@ marx
 marxian
 marxism
 marxism-leninism
-marxism‑leninism
 marxist
 marxist-leninist
 mary
@@ -2275,6 +2270,7 @@ Maryland
 marziale
 mas
 masa
+masa-raiului
 Masaccio
 masacra
 masacrare
@@ -2383,7 +2379,6 @@ masraf
 mass
 mass-display
 mass-media
-mass‑media
 Massachusetts
 Massada
 Massai
@@ -2471,7 +2466,8 @@ mașinator
 mașinație
 mașinațiune
 mașină
-mașină‑unealtă
+mașină-capcană
+mașină-unealtă
 mașinărie
 mașinghever
 mașinism
@@ -2730,10 +2726,10 @@ maț
 mațaghină
 mấță
 mațe
-mațe‑fripte
-mațe‑goale
-mațe‑negre
-mațe‑pestrițe
+mațe-fripte
+mațe-goale
+mațe-negre
+mațe-pestrițe
 mațol
 mau
 mauăr
@@ -2792,7 +2788,6 @@ Maxențiu
 maxi
 maxi-media
 maxi-taxi
-maxi‑taxi
 maxigheată
 maxijup
 maxijupă
@@ -2976,9 +2971,8 @@ măcriș
 măcrișor
 măcrișpăsăresc
 măcrișspinos
-măcrișul
-măcrișul‑caprei
-măcrișul‑iepurelui
+măcrișul-caprei
+măcrișul-iepurelui
 măcuț
 mădămuri
 Mădăraș
@@ -3129,8 +3123,9 @@ măjer
 măjerit
 măl
 mălai
-mălai‑mare
+mălai-mare
 mălaie
+mălaiul-cucului
 mălată
 mălaucă
 mălăcel
@@ -3294,8 +3289,8 @@ mănușă
 mănușărie
 mănușer
 măr
-măr‑gutui
-măr‑gutuie
+măr-gutui
+măr-gutuie
 măra
 mărac
 măramă
@@ -3373,7 +3368,6 @@ mărgărint
 mărgărire
 mărgărit
 mărgăritar
-mărgăritare
 mărgărită
 mărgărităraș
 mărgăritărel
@@ -3441,8 +3435,7 @@ mărita
 măritare
 măritat
 măritată
-mărită
-mărită‑mă‑mamă
+mărită-mă-mamă
 măritiș
 măritor
 măriuță
@@ -3495,6 +3488,7 @@ mărțânioară
 mărțiguș
 mărțișor
 Mărțoaia
+mărul-lupului
 mărulluiadam
 mărun
 măruncă
@@ -3560,8 +3554,7 @@ măscuraș
 măscuroaică
 măscuroaie
 măsea
-măseaua
-măseaua‑ciutei
+măseaua-ciutei
 măselar
 măselariță
 măselat
@@ -3609,7 +3602,8 @@ mătalnic
 mătanie
 mătasă
 mătase
-mătasea‑broaștei
+mătasea-bradului
+mătasea-broaștei
 mătăcăni
 mătăcănire
 mătăcină
@@ -3669,10 +3663,9 @@ mătrăgună
 mătrăși
 mătrășire
 mătrășit
-mătreața
-mătreața‑brazilor
+mătreața-brazilor
 mătreață
-mătreață‑de‑arbori
+mătreață-de-arbori
 mătrică
 mătrice
 mătricea
@@ -3693,7 +3686,6 @@ măturătură
 măturea
 măturele
 măturelele
-mături
 măturică
 măturice
 măturie
@@ -3738,7 +3730,8 @@ măzărica
 măzărică
 măzărice
 măzăriche
-măzăriche‑neagră
+măzăriche-neagră
+măzărichea-cucului
 măzăroi
 măzăruică
 măzdrăcel
@@ -3774,7 +3767,7 @@ mâhnitor
 mâi
 mâietoare
 mâine
-mâine‑poimâine
+mâine-poimâine
 mâini
 mâitură
 mâjă
@@ -3797,6 +3790,7 @@ mâlit
 mâlitură
 mâlos
 mâna
+mâna-Maicii-Domnului
 mânaci
 mânar
 mânare
@@ -3839,8 +3833,7 @@ mâncătură
 mâncău
 mândălac
 mândănac
-mândra
-mândra‑nopții
+mândra-nopții
 mândraie
 mândră
 mândrămărie
@@ -3980,7 +3973,7 @@ mânzuliță
 mânzușor
 mânzuț
 mâr
-mâr‑mâr
+mâr-mâr
 mâra
 mâră
 mârâi
@@ -4326,11 +4319,6 @@ medico-legal
 medico-militar
 medico-sanitar
 medico-veterinar
-medico‑farmaceutic
-medico‑legal
-medico‑militar
-medico‑sanitar
-medico‑veterinar
 medie
 mediere
 medieșean
@@ -4582,12 +4570,11 @@ mehtup
 mehtupciu
 Mehul
 mei
+mei-lung
+mei-nebun
+mei-pădureț
 mei-păsăresc
-mei‑lung
-mei‑nebun
-mei‑pădureț
-mei‑păsăresc
-mei‑tătăresc
+mei-tătăresc
 meidan
 meidean
 Meier
@@ -4623,7 +4610,7 @@ Meitner
 meitneriu
 meiu
 meiu-păsăresc
-meiul
+meiul-canarilor
 meiuș
 mej
 mejdaș
@@ -4878,7 +4865,7 @@ Melpomene
 melstrom
 melșpaiz
 meltean
-melul‑canarilor
+melul-canarilor
 melurg
 melusină
 Meluzina
@@ -5229,7 +5216,6 @@ merei
 mereic
 mereire
 Merejkovski
-merelor
 meremet
 meremetiseală
 meremetisi
@@ -5554,7 +5540,7 @@ meșniță
 Meșotă
 mește
 meșter
-meșter‑strică
+meșter-strică
 meșteraș
 meșteră
 meștere
@@ -6159,16 +6145,12 @@ mezuină
 mezunie
 mezuză
 mezza-voce
-mezza‑voce
 mezzo
 mezzo-forte
 mezzo-piano
 mezzo-soprană
 mezzo-soprano
 mezzo-tinto
-mezzo‑forte
-mezzo‑piano
-mezzo‑soprană
 Mezzofanti
 mezzoforte
 Mezzogiorno
@@ -6201,7 +6183,7 @@ miatonie
 miatrofie
 miață
 miau
-miau‑miau
+miau-miau
 miaul
 Miaulis
 miaun
@@ -6218,8 +6200,8 @@ miazăzian
 miazmatic
 miazmă
 mic
+mic-burghez
 mic-gros
-mic‑burghez
 Mica
 micaceu
 micado
@@ -6700,8 +6682,8 @@ microzonare
 microzonă
 microzoospor
 micsandră
-micsandră‑de‑munte
-micsandră‑sălbatică
+micsandră-de-munte
+micsandră-sălbatică
 micsă
 micșor
 micșora
@@ -6821,6 +6803,8 @@ miercureancă
 miercuri
 miere
 mierea
+mierea-cucului
+mierea-ursului
 Miereanu
 mierială
 miericică
@@ -6849,8 +6833,7 @@ mierlușcă
 mierluță
 miermui
 mieros
-mierte
-mierte‑fierte
+mierte-fierte
 miertic
 mierță
 mierțui
@@ -8332,6 +8315,7 @@ mixtiliniu
 mixtit
 mixtiune
 mixtum
+mixtum compositum
 mixtură
 miz
 miza
@@ -8440,7 +8424,6 @@ mîneștergură
 mîngal
 mîngîia
 mîngîiere
-mîngîietate
 mîngîietură
 mîngîios
 mînglășitură
@@ -8629,9 +8612,8 @@ moarea
 moariu
 moartă
 moarte
-moartea
-moartea‑găinilor
-moartea‑puricelui
+moartea-găinilor
+moartea-puricelui
 moașă
 moaște
 moață
@@ -8815,6 +8797,7 @@ moderator
 moderație
 moderațiune
 modern
+Modern Style
 modern-style
 modernism
 modernist
@@ -8879,7 +8862,7 @@ modulor
 modulosuprarenalom
 modur
 modus
-modus-vivendi
+modus vivendi
 Moerae
 Moesia
 Moesidax
@@ -9139,7 +9122,7 @@ molebnic
 molecău
 molecular
 moleculă
-moleculă‑gram
+moleculă-gram
 molem
 molenie
 Moles
@@ -9176,12 +9159,12 @@ molfăitură
 Molfetta
 molhaș
 moli
-molia
-molia‑albinelor
-molia‑merelor
-molia‑strugurilor
-molia‑stupilor
-molia‑zidurilor
+molia-albinelor
+molia-merelor
+molia-porumbului
+molia-strugurilor
+molia-stupilor
+molia-zidurilor
 molibdat
 molibden
 molibdenic
@@ -9198,9 +9181,11 @@ molidiș
 molidv
 molidviș
 molie
-molie‑de‑casă
-molie‑de‑câmp
-molie‑de‑pământ
+molie-de-albine
+molie-de-casă
+molie-de-câmp
+molie-de-pământ
+molie-de-stup
 Moliere
 molieresc
 molift
@@ -9900,7 +9885,7 @@ moped
 mops
 Mopsus
 mor
-mor‑mor
+mor-mor
 moracee
 Moradabad
 Moragues
@@ -10286,7 +10271,6 @@ mortuis
 mortuos
 morțărie
 morțește
-morților
 morțiș
 morțiu
 Morțun
@@ -10389,6 +10373,7 @@ Mostowski
 mostră
 mosul
 moș
+Moș-Ajun
 Moș-Teacă
 moșan
 moșancă
@@ -10666,6 +10651,7 @@ Moțoi
 moțpan
 moțpancă
 moțpănoi
+moţul-curcanului
 Moulin
 Moulin-Rouge
 Moulmein
@@ -10776,7 +10762,7 @@ Mrozek
 ms
 MTI
 mu
-mu‑mu
+mu-mu
 muabil
 muabilitate
 Muawiyah
@@ -11051,7 +11037,7 @@ mulgătoare
 mulgător
 mulgătură
 mulge
-mulge‑capre
+mulge-capre
 mulgedium
 mulgere
 Mulhacen
@@ -11081,7 +11067,7 @@ mulsoare
 mulsum
 mulsură
 mult
-mult‑puțin
+mult-puțin
 multa
 Multan
 multar
@@ -11238,7 +11224,7 @@ mulurare
 mulurat
 mulură
 mulzare
-Muma‑Pădurii
+Muma-Pădurii
 mumă
 mumână
 mumbaia
@@ -11322,8 +11308,8 @@ Munsterberg
 muntar
 muntăriță
 munte
-munte‑bloc
-munte‑de‑pietate
+munte-bloc
+munte-de-pietate
 muntean
 munteancă
 Munteanu
@@ -11543,6 +11529,8 @@ musare
 musă
 musc
 musca
+musca-cireşelor
+musca-hoiturilor
 muscacid
 muscadin
 muscal
@@ -11563,13 +11551,18 @@ muscas
 muscat
 muscatir
 muscă
+muscă-albastră
+muscă-bețivă
+muscă-columbacă
 muscă-de-bâzai
 muscă-de-bâzdărat
 muscă-de-bâzdărit
-muscă‑albastră
-muscă‑bețivă
-muscă‑mare
-muscă‑verde
+muscă-de-cal
+muscă-de-carne
+muscă-de-cireşe
+muscă-de-varză
+muscă-mare
+muscă-verde
 muscălesc
 muscălește
 muscăli
@@ -11624,7 +11617,6 @@ museum
 Mushanokoji
 music
 music-hall
-music‑hall
 musica
 musical
 musică
