@@ -40,7 +40,6 @@ Yew
 Yi
 yiang
 ylang-ylang
-ylang‑ylang
 ymca
 Ymer
 Ymir
