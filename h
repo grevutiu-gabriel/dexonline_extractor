@@ -1,8 +1,8 @@
 h
 h´o
 ha
+ha-ha
 Ha-Negev
-ha‑ha
 haag
 haakon
 haanpaa
@@ -179,7 +179,7 @@ hahniu
 hahnium
 hahol
 hai
-hai‑hai
+hai-hai
 haială
 haialâc
 haian
@@ -188,8 +188,8 @@ haică
 haid
 haida
 haida de
-haida‑de
-haida‑hai
+haida-de
+haida-hai
 haidade
 haidalera
 haidam
@@ -198,8 +198,8 @@ haidați
 haidău
 haidăul
 haide
-haide‑ha
-haide‑hai
+haide-ha
+haide-hai
 haidem
 Haiderabad
 haideți
@@ -336,7 +336,6 @@ hale
 halea
 halea-malea
 halea-palea
-halea‑malea
 haleakala
 haleală
 Haleb
@@ -357,7 +356,6 @@ haley
 half
 half-taim
 half-time
-half‑time
 halfă
 halffter
 halfie
@@ -497,7 +495,6 @@ halys
 halysites
 ham
 ham-ham
-ham‑ham
 hama
 hamac
 hamada
@@ -555,9 +552,7 @@ hamiltonian
 hamiș
 hamit
 hamitic
-hamito
 hamito-semitic
-hamito‑semitic
 hamlet
 hamletiza
 hamletizare
@@ -598,7 +593,6 @@ Han-Ching
 han-tătar
 Han-Tengri
 Han-Tepesi
-han‑tătar
 hanaan
 hanap
 hanat
@@ -742,7 +736,6 @@ haploză
 happening
 happy
 happy-end
-happy‑end
 hapsân
 hapsânie
 hapsin
@@ -764,7 +757,6 @@ hara
 hara-bara
 hara-hara
 hara-para
-hara‑para
 haraba
 harababura
 harababură
@@ -804,6 +796,7 @@ haramtuturi
 harancă
 harang
 harap
+Harap-Alb
 harapara
 harapină
 harapnic
@@ -835,7 +828,6 @@ harcă
 harcăt
 harcea
 harcea-parcea
-harcea‑parcea
 harceaparcea
 harchină
 harcotă
@@ -843,9 +835,9 @@ Harcourt
 Harcov
 harcumar
 hard
-hard-rock
+hard disk
+hard rock
 hard-top
-hard‑disc
 hardal
 hardalâc
 hardalîc
@@ -1171,7 +1163,7 @@ hațiș
 hațmațuchiu
 hațoagă
 hau
-hau‑hau
+hau-hau
 haubiță
 hauc
 haucă
@@ -1233,6 +1225,7 @@ Haven
 Havers
 haversian
 haveză
+Havilland
 Havirov
 Havlicek
 Havranek
@@ -1293,7 +1286,7 @@ hazoume
 hazran
 hazuliu
 hă
-hă‑hă
+hă-hă
 hăbădic
 hăbădii
 Hăbășescu
@@ -1782,7 +1775,7 @@ Hârtibaci
 hârtică
 hârticos
 hârtie
-hârtie‑monedă
+hârtie-monedă
 hârtier
 hârtierie
 Hârtiești
@@ -1863,6 +1856,7 @@ heautoscopic
 heautoscopie
 Heaviside
 heavy
+heavy metal
 heba
 Hebbel
 hebdomadar
@@ -3409,9 +3403,10 @@ Higashi
 higă
 Higgins
 high
+high technology
 high-hat
 high-life
-high‑life
+high-tech
 higheghe
 highidiș
 Highiș
@@ -3609,6 +3604,7 @@ hioră
 hiosciamină
 hip
 hip-
+hip-hop
 hipalagă
 hipalgezie
 hipalgie
@@ -4282,9 +4278,9 @@ hispanistică
 hispanitate
 hispanizant
 hispano
+hispano-american
 hispano-arab
 hispano-moresc
-hispano‑american
 hispanofil
 hispanofilă
 hispanofob
@@ -4647,7 +4643,6 @@ Hockney
 hoco
 hocus
 hocus-pocus
-hocus‑pocus
 hod
 Hodac
 hodaie
@@ -4697,7 +4692,6 @@ hodorogit
 hodoronc
 hodoronc tronc
 hodoronc-tronc
-hodoronc‑tronc
 hodoronctronc
 hodos
 Hodoș
@@ -4779,7 +4773,6 @@ hoisa
 hoit
 hoitar
 hoitină
-hoiturilor
 hojbăi
 hojbăire
 Hojeda
@@ -5172,14 +5165,15 @@ Hoorn
 Hoorne
 Hoover
 hop
+hop-așa
 hop-ciocoiu
 hop-de-o-parte
-hop‑așa
 hopa
-hopa‑țupa
+hopa-mitică
+hopa-țupa
 hopahopa
 hopai
-hopai‑țupa
+hopai-țupa
 hopaie
 hopațupa
 hopăi
@@ -5211,7 +5205,7 @@ hopuri
 hopuros
 hoquetus
 hor
-hor‑hor
+hor-hor
 hora
 horae
 Horaița
@@ -5428,8 +5422,8 @@ horțire
 horțiș
 horțog
 horum
+horum-
 horum-harum
-horum‑
 horus
 Horvat
 Hory
@@ -5574,8 +5568,7 @@ hraiște
 hraiță
 hram
 hramă
-hrana
-hrana‑vacii
+hrana-vacii
 hrană
 hraniște
 hraniță
@@ -6009,7 +6002,6 @@ hurdulete
 hurduz
 hurduz-belea
 hurduz-burduz
-hurduz‑burduz
 hurduzău
 hurduzbelea
 hurduzburduz
@@ -6038,6 +6030,7 @@ hurmetire
 hurmuz
 Hurmuzache
 Hurmuzaki
+hurmuzul-pământului
 huron
 huronian
 hursuz
