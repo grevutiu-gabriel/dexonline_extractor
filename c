@@ -1588,7 +1588,6 @@ capră
 capră-de-munte
 capră-neagră
 Caprea
-caprei
 capreolat
 capri
 capria
@@ -3814,7 +3813,6 @@ căprar
 Căprariu
 căpraș
 căprărie
-căprească
 căpreni
 căpresc
 căprește
@@ -3993,7 +3991,6 @@ cărturărește
 cărturărie
 cărturărime
 cărțaș
-cărți
 cărțișoară
 cărțoi
 cărțulie
@@ -8273,7 +8270,6 @@ ciobacă
 cioban
 ciobanaș
 ciobanel
-ciobanilor
 ciobanu
 Ciobanul-cu-Oile
 ciobăcan
@@ -10510,7 +10506,6 @@ cloadenă
 cloambă
 cloancă
 cloanthus
-cloanța
 cloanță
 cloasmă
 cloață
@@ -15004,7 +14999,6 @@ corai
 coraișit
 coraj
 coral
-coral (pl. -i)
 corală
 coralealbe
 coralgal
@@ -17670,6 +17664,7 @@ cromlech
 cromleh
 cromnichel
 cromo
+cromo-
 cromoalgrafie
 cromoblast
 cromoblastă
@@ -17860,7 +17855,6 @@ crozier
 croznie
 crth
 cruce
-crucea
 crucea-pământului
 crucea-voinicului
 crucelnic
