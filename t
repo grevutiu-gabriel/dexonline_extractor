@@ -266,7 +266,6 @@ tai-mălaiul
 Taibo
 taică
 taică-meu
-taie
 taie-babă
 taie-fugă
 taiebabă
@@ -946,7 +945,6 @@ tașmag
 tașmău
 tașnieț
 tat
-tata
 tata-mare
 tata-moșul
 tata-socrul
@@ -960,6 +958,7 @@ tataricum
 tată
 tată-mare
 tată-meu
+tată-socru
 Tatăl
 tati
 tatige
@@ -1561,7 +1560,6 @@ tătărâre
 tătărât
 tătărcele
 tătărcuță
-tătărească
 tătăresc
 Tătărescu
 tătărește
@@ -2042,7 +2040,7 @@ tbilisian
 tc
 tdw
 te
-te deum
+Te Deum
 tea
 tea-room
 teaaa
@@ -4928,7 +4926,6 @@ tmeză
 Tmol
 Tmolus
 to
-toaca
 toacă
 toacăgură
 toag
@@ -8502,7 +8499,6 @@ turrita
 turritella
 turș
 turșug
-turta
 turta-lupului
 turta-vacii
 turtale
