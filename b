@@ -37,7 +37,6 @@ babă
 Babbage
 babbit
 babcă
-babei
 babein
 babeingiu
 Babel
@@ -7158,7 +7157,6 @@ broancă
 broasca-apei
 broască
 broască-țestoasă
-broaștei
 broatec
 broazbă
 brobință
