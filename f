@@ -1481,6 +1481,7 @@ feldspatizare
 feldspatoid
 feldspați
 feldvebăl
+feldwebăl
 feldwebel
 fele
 Felea
@@ -2064,7 +2065,6 @@ fetal
 fetalizare
 fetească
 feteleu
-fetelor
 fetesc
 fetește
 Fetești
@@ -2342,6 +2342,8 @@ fierăstrăi
 fierăstrăiaș
 fierăstrău
 fierăstrui
+fierăstruire
+fierăstruit
 fierăt
 fierătaie
 fierâie
@@ -2397,6 +2399,7 @@ fif
 fifăi
 fifiric
 fifirig
+fifty
 fifty-fifty
 fig
 figai
@@ -3293,7 +3296,6 @@ flaimuc
 flajeolet
 flajolet
 Flajshansova
-flakes
 flamand
 flamandă
 flamare
@@ -5231,7 +5233,6 @@ fratricidiu
 fratrie
 fratro
 fratrocrație
-frați
 frații
 frauda
 fraudare
