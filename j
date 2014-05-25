@@ -289,6 +289,7 @@ javelină
 javeliza
 javelizare
 javelizat
+javelizată
 Javorina
 Javorka
 Javorniky
