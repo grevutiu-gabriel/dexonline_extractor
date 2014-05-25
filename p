@@ -1185,7 +1185,6 @@ pantofăreasă
 pantofărie
 pantofior
 pantofobie
-pantoful
 pantoful-doamnei
 pantograf
 pantografic
@@ -1451,7 +1450,6 @@ papucăreasă
 papucărie
 papucătorie
 papucel
-papucul
 papucul-doamnei
 papugerie
 papugire
@@ -2398,7 +2396,6 @@ parton
 partosi
 partoș
 partout
-partum
 parture
 parturientă
 parturiție
@@ -3797,7 +3794,6 @@ părăli
 părălie
 părălușă
 părăluță
-părăluțe
 părăros
 părăsât
 părăscuță
@@ -3944,7 +3940,6 @@ părui
 păruială
 păruire
 păruit
-Părul
 Părul-Berenicei
 părul-Maicii-Domnului
 părul-porcului
@@ -4083,7 +4078,6 @@ păstorit
 păstoriță
 păstornic
 păstornicesc
-Păstorul
 Păstorul-cu-Oile
 păstos
 păstra
@@ -4184,7 +4178,6 @@ pătar
 pătare
 pătașcă
 pătat
-pătați
 pătavăț
 pătăchie
 pătăchir
@@ -4266,7 +4259,6 @@ pătrundere
 pătrunjel
 pătrunjel-de-câmp
 pătrunjelsălbatic
-pătrunjelul
 pătrunjelul-câinelui
 pătrunjică
 pătruns
@@ -4367,7 +4359,6 @@ păzarliu
 păzaș
 păzea
 păzeală
-păzește
 păzi
 păzire
 păzit
@@ -4416,7 +4407,6 @@ pâinar
 pâinăreasă
 pâinărie
 pâine
-pâinea
 pâinea-pădurii
 pâinea-porcului
 pâinică
@@ -4885,7 +4875,6 @@ pecet
 pecetar
 pecetărie
 pecete
-pecetea
 pecetea-lui-Solomon
 pecetie
 pecetlar
@@ -5737,6 +5726,10 @@ pepturaș
 Pepusch
 Pepys
 per
+per oral
+per os
+per pedes
+per tu
 Pera
 peracid
 Perahia
@@ -7020,7 +7013,6 @@ peşte-cu-şapte-nume
 pește-de-mare
 pește-ferăstrău
 pește-fierăstrău
-peștele
 peștele-lui-Solomon
 peștelui
 peșteman
@@ -7640,7 +7632,6 @@ picinog
 picioacă
 picioaică
 picioarcă
-picioare
 picioare-lungi
 picioarelea
 picioc
@@ -7671,7 +7662,6 @@ picioronga
 piciorongat
 picioruc
 piciorug
-piciorul
 piciorul-caprei
 piciorulgâștii
 picioruș
@@ -8380,7 +8370,6 @@ pintenel
 pintenește
 pintenoagă
 pintenog
-pintenul
 pintenul-secarei
 pinter
 pintilie
@@ -8884,7 +8873,6 @@ pisiceală
 pisicesc
 pisicește
 pisici
-pisicii
 pisicire
 pisicos
 pisicuț
@@ -9073,7 +9061,6 @@ pișulică
 pișulit
 pișvaser
 pit
-pita
 pita-vacii
 pitac
 pitaci
@@ -11096,7 +11083,6 @@ poacină
 poadă
 poafă
 poajgă
-poala
 poala-Maicii-Domnului
 poala-rândunicii
 poala-Sfintei-Marii
@@ -11104,16 +11090,12 @@ poală
 poală albă
 poală-albă
 poalăalbă
-poale
 poale-n-brâu
 poaleș
 poaltă
-poama
 poama-câinelui
 poamă
-poame
 poame-de-pământ
-poamele
 poamele-mâței
 poampă
 poancă
@@ -20675,7 +20657,6 @@ purcea
 purcede
 purcedere
 purcege
-Purcei
 purcel
 purcelandru
 purcelaș
@@ -21073,7 +21054,6 @@ putrigai
 putritudine
 putto
 Putumayo
-puturoasă
 puturos
 puturoșenie
 puturoși
