@@ -592,7 +592,6 @@ gardist
 Gardner
 gardon
 Gardonyi
-garduri
 garet
 Garett
 garf
@@ -1398,7 +1397,6 @@ gâscăreasă
 gâscăriță
 gâscoi
 gâsculiță
-gâștei
 gât
 gâtar
 gâtej
