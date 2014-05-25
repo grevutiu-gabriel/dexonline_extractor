@@ -365,6 +365,7 @@ Laithwaite
 laitmotiv
 laiță
 laius
+laiv
 Lajhta
 Lakatos
 lake
@@ -414,6 +415,7 @@ lamb
 lamba
 lambada
 lambadacism
+lambadă
 lambar
 lambă
 lambda
@@ -1070,6 +1072,7 @@ Laurenziana
 Laurian
 Lauro
 laurus
+laurușcă
 laus
 Lausanne
 lausus
@@ -2320,7 +2323,6 @@ leșcovă
 Leșe
 leșesc
 leșește
-leșeștile
 leșia
 leșială
 leșiat
