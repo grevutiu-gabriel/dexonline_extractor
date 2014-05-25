@@ -408,7 +408,7 @@ saingiu
 saint
 Saint Albans
 Saint-Bernar
-saint-bernard
+Saint-Bernard
 Saint-Beuve
 Saint-Germain
 Saint-Jean
@@ -499,7 +499,6 @@ salarizare
 salarizat
 salas
 salat
-salata
 salata-iepurelui
 salată
 salată de boeuf
@@ -1336,7 +1335,6 @@ sardou
 sarduy
 sare
 sare-garduri
-sarea
 sarea-pisicii
 sarek
 sarf
@@ -1810,7 +1808,6 @@ săftiele
 săgar
 săgeac
 săgeacar
-săgeata
 săgeata-apei
 săgeata-apelor
 săgeata-lui-Dumnezeu
@@ -2648,7 +2645,6 @@ Sârbia
 sârbie
 sârbii-măgura
 sârbism
-sârbo
 sârbo-croat
 sârbo-croată
 sârboaică
@@ -2905,7 +2901,6 @@ scapulă
 scapulectomie
 scapulo-umeral
 scapulum
-scara
 scara-Domnului
 scara-mâței
 scara-pisicii
@@ -4563,7 +4558,6 @@ scrivilă
 scrivit
 scrivitură
 scroabă
-Scroafa
 Scroafa-cu-Purcei
 scroafă
 scroafă-de-baltă
@@ -6169,6 +6163,7 @@ serăută
 serba
 serbare
 serbat
+Serbati
 serbezeală
 serbezenie
 serbezi
@@ -6705,7 +6700,6 @@ sfârcos
 sfârcui
 sfârcuire
 sfârcuit
-sfârcul
 sfârcul-babei
 sfârcurat
 sfârcuș
@@ -7000,7 +6994,7 @@ sfredelitor
 sfredelitură
 sfredelițel
 sfredelul-lemnului
-sfredelul-Rusaliilor
+Sfredelul-Rusaliilor
 sfredelulmic
 sfredeluș
 sfredeluși
@@ -8628,7 +8622,6 @@ Sisyph
 Sisyphus
 sit
 sit-in
-sita
 sita-zânelor
 sital
 Sitalces
@@ -9558,7 +9551,6 @@ soare-sec
 soarea
 soarea-soarelui
 soareâncap
-soarelui
 Soares
 soarescapătă
 soaresec
@@ -10346,7 +10338,6 @@ soprovi
 sopun
 sor
 sor-cu-frate
-sora
 sora-soarelui
 sorab
 sorabist
@@ -10663,7 +10654,6 @@ spanac
 spanac-englezesc
 spanacalb
 spanacporcesc
-spanacul
 spanacul-ciobanilor
 spanar
 spanc
@@ -12401,7 +12391,6 @@ stâncă
 stâncăraie
 stâncărie
 stânci
-stâncii
 stâncime
 stânciu
 stâncos
@@ -13376,7 +13365,6 @@ strainic
 straistă
 straița-popii
 straiță
-straiul
 straiul-broaștei
 straj
 strajameșter
