@@ -4063,7 +4063,6 @@ mâț
 mâțan
 mâță
 mâțâi
-mâței
 mâțesc
 mâțește
 mâțică
@@ -8610,7 +8609,6 @@ moară
 moare
 moarea
 moariu
-moartă
 moarte
 moartea-găinilor
 moartea-puricelui
@@ -10469,7 +10467,6 @@ moștină
 moștoc
 moștolcă
 moșuc
-moșul
 moșuleț
 moșulică
 moșulică$
@@ -11335,7 +11332,6 @@ muntișor
 muntos
 Muntzer
 munți
-munților
 munuchi
 munună
 munune
