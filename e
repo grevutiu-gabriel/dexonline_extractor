@@ -264,6 +264,7 @@ eclezial
 ecleziarh
 ecleziast
 ecleziastic
+Ecleziastul
 eclezie
 ecleziologic
 ecleziologie
@@ -1305,6 +1306,7 @@ electromobil
 electromotor
 electromuscular
 electron
+electron-volt
 electronarcoză
 electronavigație
 electronegativ
@@ -4335,6 +4337,7 @@ euritrof
 euritrofic
 eurjună
 euro
+euro-
 euroarab
 euroatlantic
 eurobancă
@@ -4683,6 +4686,7 @@ ex-premier
 ex-professo
 ex-voto
 exa
+exa-
 exacerba
 exacerbare
 exacerbat
@@ -5242,6 +5246,7 @@ explozimetru
 explozitivitate
 exploziune
 exploziv
+explozivă
 explozivitate
 explozor
 expo
