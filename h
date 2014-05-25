@@ -2116,6 +2116,7 @@ heliosciofite
 helioscop
 helioscopia
 helioscopic
+heliosincron
 heliostat
 heliotactism
 heliotehnic
