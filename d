@@ -147,6 +147,7 @@ DAKAR
 dakota
 dakotas
 dal
+dal segno
 dala
 dalac
 DALADIER
@@ -821,6 +822,7 @@ de jur împrejur
 de jur împrejurul
 de jure
 de pe
+de plano
 de sine stătător
 de treabă
 de vreme ce
@@ -1016,6 +1018,7 @@ debutonat
 debye
 dec
 deca
+deca-
 decabrist
 decacord
 decadal
@@ -1211,6 +1214,7 @@ dechenvre
 dechenvrie
 dechilin
 deci
+deci-
 decibel
 decibelmetru
 decicliza
@@ -1956,7 +1960,6 @@ degetariță
 degetărea
 degetărel
 degetăruț
-degete
 degetuț
 degețel
 degețel-roșu
@@ -2279,6 +2282,7 @@ delicvență
 delicvescent
 delicvescență
 deligație
+Deligne
 delignificare
 delimita
 delimitabil
@@ -2328,6 +2332,7 @@ delivrență
 dell
 dell’arte
 della
+Delluc
 delnic
 delniță
 deloc
@@ -2336,6 +2341,8 @@ delocutivitate
 deloial
 deloialitate
 Delon
+Delorme
+Delors
 delos
 Delpech
 delphi
@@ -2449,6 +2456,7 @@ demetra
 Demetrescu
 Demetriu
 demi
+demi-
 demic
 demica
 Demicarpi
@@ -2938,6 +2946,7 @@ depeiza
 depeizare
 depeizat
 depelare
+dependency
 dependent
 dependență
 dependință
@@ -5412,6 +5421,7 @@ dezzice
 Dhaghataizi
 dhală
 Dharwar
+Dhilos
 di
 dia
 diabaz
@@ -5741,6 +5751,7 @@ Dickens
 diclamideu
 diclin
 diclorbenzen
+diclordifeniltricloroetan
 dicloretilenă
 diclormetan
 dico
@@ -6942,6 +6953,7 @@ dispensional
 dispepsie
 dispeptic
 dispera
+disperant
 disperare
 disperat
 dispergator
@@ -7357,7 +7369,6 @@ doamna-codrului
 doamnă
 doamnă-mare
 doamne-ajută
-doamnei
 doanță
 doapă
 doar
