@@ -1188,7 +1188,6 @@ razanță
 rază
 razăm
 razăma
-razboi-fulger
 razdreșenie
 razdruși
 Razelm
@@ -1629,7 +1628,6 @@ răsadniță
 răsai
 răsalaltăieri
 răsalniță
-răsare
 răsareasoarelui
 răsădeală
 răsădi
@@ -2418,7 +2416,6 @@ rândunic
 rândunica-Domnului
 rândunică
 rândunică-de-mare
-rândunicii
 rândunicoi
 rândunioc
 rânduniță
@@ -6499,6 +6496,7 @@ Robeson
 robespierre
 robește
 robi
+Robia
 robiciune
 robie
 Robig
@@ -6569,7 +6567,6 @@ rochia-rîndunicii
 rochie
 rochință
 rochioară
-rochița
 rochița-rândunicii
 rochiță
 roci
@@ -6893,7 +6890,6 @@ românaș
 română
 româncă
 româncuță
-Românească
 românesc
 românește
 românești
@@ -7095,13 +7091,17 @@ Roskilde
 rosmarin
 rosmarinus
 rosmarus
+Rosmini
+Rosny
 rosoleală
 rosoli
 rosolie
 rospev
 rospiscă
 rosqual
+Ross
 rossa
+Rossbach
 rossetti
 Rossinanta
 rossini
@@ -7308,7 +7308,6 @@ rotulă
 rotulian
 rotulus
 rotund
-rotunda
 rotunda-puturoasă
 rotundă
 rotundifolia
@@ -7637,7 +7636,6 @@ rugos
 rugozimetru
 rugozitate
 ruguci
-rugul
 rugul-vacii
 ruguleț
 ruguma
@@ -7986,7 +7984,6 @@ rușinat
 rușină
 rușinător
 rușine
-rușinea
 rușinea-fetelor
 rușineală
 rușinoasă
