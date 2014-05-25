@@ -511,6 +511,7 @@ Ideciu
 idee
 ideie
 Idel
+idelogicește
 Idelsohn
 idem
 idempotent
@@ -758,7 +759,6 @@ iepurărie
 iepure
 iepure-de-mare
 iepurel
-iepurelui
 iepuresc
 iepurește
 Iepurești
@@ -1608,6 +1608,7 @@ implantat
 implantație
 implantolog
 implantologie
+implaudare
 implementa
 implementare
 implementat
@@ -3775,6 +3776,7 @@ intergeneric
 intergenezic
 interglaciar
 interglaciație
+interglaciațiune
 interguvernamental
 interiecție
 interim
@@ -4148,6 +4150,7 @@ intransportabil
 intranuclear
 intranzitiv
 intranzitivitate
+intranzivitate
 intraocular
 intraoral
 intraorbital
