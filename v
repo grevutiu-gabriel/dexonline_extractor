@@ -38,7 +38,6 @@ vaccinoprofilaxie
 vaccinostil
 vaccinoterapie
 vache
-vacii
 vacilant
 vacs
 vacubliț
@@ -205,6 +204,7 @@ valiză
 valizuță
 valkirie
 Valladolid
+Valle
 Vallee
 Valletta
 Valley
@@ -1566,7 +1566,6 @@ verdaică
 verdare
 verde
 verde-de-Paris
-verdeața
 verdeața-zidurilor
 verdeață
 verder
@@ -2139,7 +2138,7 @@ victorios
 victualii
 vicuña
 vicunia
-vid
+Vid
 vida
 vidaj
 vidam
@@ -3424,7 +3423,7 @@ Volscens
 volsci
 volt
 volt-amper
-volta
+Volta
 voltaic
 Voltaire
 voltairian
@@ -3619,7 +3618,7 @@ vracniță
 vraconian
 vraf
 vragniță
-vraiște
+vraişte
 vrajă
 vrajbă
 vraje
