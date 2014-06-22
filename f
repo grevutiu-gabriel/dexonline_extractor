@@ -2808,6 +2808,8 @@ finlandeză
 finlandiza
 finlandizare
 finnbogadottir
+fino
+fino-
 fino-ugric
 finougristică
 finsen
@@ -3268,6 +3270,7 @@ fjord
 flabel
 flabelat
 flabeliform
+flac
 flacără
 flaccid
 flacciditate
@@ -3609,6 +3612,7 @@ flexură
 flibustă
 flibusterie
 flibustier
+flic
 flic-flac
 flictenă
 flictenoid
@@ -4726,6 +4730,7 @@ fotism
 fotiță
 Fotius
 foto
+foto-
 fotoactualitate
 fotoalergie
 fotoamator
@@ -5867,6 +5872,7 @@ ftîzic
 ftong
 ftora
 ftori
+ftori-
 ftori-logofăt
 ftori-stolnic
 ftorilogofăt
@@ -6300,6 +6306,7 @@ furiș
 furișa
 furișare
 furișat
+furişate
 furișor
 furlană
 furlandisi
