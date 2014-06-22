@@ -6,6 +6,7 @@ P.C.
 p.c.r.
 p.d.
 p.i.b.
+p.m.
 p.n.a.
 P.N.L.
 P.N.R.
@@ -8329,6 +8330,7 @@ pingelui
 pingeluială
 pingeluire
 pingeluit
+pingică
 pingo
 pingpongist
 pingpongistă
@@ -9652,6 +9654,7 @@ planctonologic
 planctonologie
 planctonometru
 planctont
+planctontă
 plancui
 plancuire
 plancuit
@@ -10803,6 +10806,7 @@ plum-pox
 plumân
 plumână
 plumânărea
+plumânărică
 plumânea
 plumânei
 plumb
@@ -13871,6 +13875,7 @@ possibile
 possibles
 possumus
 post
+post meridiem
 post-
 post-abortum
 post-cheie
