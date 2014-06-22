@@ -8136,6 +8136,9 @@ miticultură
 mitifica
 mitificare
 mitificat
+mitiga
+mitigare
+mitigat
 mitigație
 mitigațiune
 Mitilena
