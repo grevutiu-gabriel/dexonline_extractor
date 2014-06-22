@@ -332,6 +332,7 @@ gallo
 Gallone
 Gallup
 galo
+galo-
 galo-român
 galofil
 galofilie
