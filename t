@@ -878,7 +878,7 @@ tartalac
 tartan
 tartană
 tartaon
-Tartar
+tartar
 tartaric
 tartarici
 tartarin
@@ -5814,7 +5814,7 @@ tradunt
 tradus
 traduttore
 trafalet
-Trafalgar
+trafalgar
 trafă
 trafic
 trafica
@@ -7375,7 +7375,7 @@ tritiu
 tritium
 Trito
 Tritogenia
-Triton
+triton
 Tritonia
 tritonidă
 tritura
