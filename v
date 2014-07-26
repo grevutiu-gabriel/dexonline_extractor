@@ -2138,7 +2138,7 @@ victorios
 victualii
 vicuña
 vicunia
-vid
+Vid
 vida
 vidaj
 vidam
@@ -3423,7 +3423,7 @@ Volscens
 volsci
 volt
 volt-amper
-volta
+Volta
 voltaic
 Voltaire
 voltairian
@@ -3618,7 +3618,7 @@ vracniță
 vraconian
 vraf
 vragniță
-vraiște
+vraişte
 vrajă
 vrajbă
 vraje
