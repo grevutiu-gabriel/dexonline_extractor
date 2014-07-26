@@ -2227,6 +2227,7 @@ Ghelari
 ghelasie
 ghelă
 ghelău
+ghelban
 ghelci
 ghelciu
 Ghelderode
@@ -3152,6 +3153,7 @@ gisment
 gistrui
 gistruire
 gitan
+gitană
 gitarre
 gită
 githago
