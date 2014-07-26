@@ -3330,6 +3330,7 @@ insociabilitate
 insola
 insolare
 insolat
+insolatie
 insolator
 insolație
 insolațiune
@@ -4760,7 +4761,6 @@ ipsa
 IPSATIV
 ipse
 ipseitate
-ipsi
 Ipsilante
 ipsilanti
 ipsili
