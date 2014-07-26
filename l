@@ -1041,6 +1041,7 @@ laudatio
 laudativ
 laudator
 laudă
+laude
 Lauderdale
 laudes
 laudi
