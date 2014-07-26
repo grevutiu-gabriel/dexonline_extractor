@@ -12493,7 +12493,7 @@ pollaiuolo
 pollice
 pollini
 pollock
-pollux
+Pollux
 polman
 polmar
 polmă
@@ -16598,7 +16598,6 @@ prețuit
 prețuitoare
 prețuitor
 preucă
-preudocrup
 preuman
 preumbl
 preumbl-
@@ -19618,6 +19617,7 @@ pseudoconglomerat
 pseudocreație
 pseudocredință
 pseudocritică
+pseudocrup
 pseudocuadrofonie
 pseudocultură
 pseudocvadrifonie
