@@ -553,6 +553,7 @@ hamiș
 hamit
 hamitic
 hamito-semitic
+hamito-semitică
 hamlet
 hamletiza
 hamletizare
@@ -837,12 +838,16 @@ harcumar
 hard
 hard disk
 hard rock
+hard-back
+hard-disk
+hard-rock
 hard-top
 hardal
 hardalâc
 hardalîc
 Hardangerfjorden
 hardback
+harddisk
 Harden
 Hardenberg
 hardground
@@ -1205,6 +1210,7 @@ havai
 havaian
 havaiană
 havaiet
+havaiian
 havaiu
 havaj
 havalea
@@ -3404,6 +3410,7 @@ Higashi
 higă
 Higgins
 high
+high fidelity
 high technology
 high-hat
 high-life
@@ -3500,7 +3507,6 @@ hilobiologie
 hilofobie
 hilognozie
 hilot
-hiloți
 hilozoism
 hilozoist
 hiltă
@@ -3616,6 +3622,7 @@ hiparhie
 hiparion
 hipemie
 hiper
+hiper-
 hiperacid
 hiperaciditate
 hiperactiv
@@ -4516,6 +4523,7 @@ hîzenie
 Hjalmar
 Hjalmaren
 Hjelmslev
+hl
 hladnic
 hlam
 hlamidă
