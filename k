@@ -1215,6 +1215,7 @@ Kremenciug
 kremlin
 kremlinolog
 kremlinologă
+kremlinologie
 Krenek
 krennerit
 krenuerit
