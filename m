@@ -4869,6 +4869,7 @@ melurg
 melusină
 Meluzina
 Melville
+memă
 membrache
 membranaceu
 membranal
