@@ -2182,6 +2182,7 @@ endomorfină
 endomorfism
 endonazal
 endonefrită
+endonim
 endonom
 endontologie
 endonucleolus
@@ -5063,6 +5064,7 @@ exonera
 exonerare
 exonerat
 exonerație
+exonim
 exoniroză
 exoolitic
 exoplasmă
