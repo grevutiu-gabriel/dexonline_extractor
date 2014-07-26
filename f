@@ -2928,7 +2928,6 @@ Fischer
 fiscoi
 fisculaș
 fiscuș
-fish
 Fishta
 fisi
 fisibil
@@ -3552,7 +3551,6 @@ fleorțotină
 fleoș
 fleoșc
 fler
-flere
 fleroos
 Flerov
 Flers
