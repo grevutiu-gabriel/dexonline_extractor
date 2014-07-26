@@ -2106,6 +2106,7 @@ tecărău
 tecărui
 tecăruire
 tecăruit
+tech
 techer
 techer-mecher
 techergău
