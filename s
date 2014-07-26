@@ -13710,7 +13710,6 @@ străveziu
 străvezos
 străvibra
 străvuiet
-străzii
 strâca
 strâcnet
 strâcni
