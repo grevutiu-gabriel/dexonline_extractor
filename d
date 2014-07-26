@@ -2583,6 +2583,7 @@ demoniac
 demonic
 demonicesc
 demonie
+demonim
 demonism
 demoniza
 demonizare
@@ -7677,7 +7678,6 @@ doldora
 doldori
 doldură
 doleanță
-dolendum
 dolent
 dolente
 dolerit
